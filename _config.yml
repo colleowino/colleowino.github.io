@@ -1,4 +1,4 @@
-# Site settings
+## Site settings
 title: Kole
 email: colleowino@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,6 +8,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://colleowino.github.io"
 twitter_username: colleowino
 github_username: colleowino 
+facebook_username:  colleowino
+header-img: img/home-bg.jpg
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
