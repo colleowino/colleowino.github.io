@@ -1,5 +1,4 @@
-## Site settings
-title: Kole
+## Site settings title: Kole
 email: colleowino@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am a code junky, data enthusiast and design buff. 
@@ -10,10 +9,22 @@ twitter_username: colleowino
 github_username: colleowino 
 facebook_username:  colleowino
 header-img: img/home-new.jpg
+title: "Kole"
 
-# Build settings
-markdown: kramdown
+# Dependencies
+markdown: redcarpet
 highlighter: pygments
+
+#permalinks
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+#stop crashing
+version: 2.1.0
+github: 
+repo: https://github.com/colleowino
+url: colleowino.com
+author:
+  name: 'colle owino'
+  url: https://twitter.com/colleowino
