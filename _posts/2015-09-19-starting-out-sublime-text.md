@@ -3,6 +3,7 @@ layout:     post
 title:      "Introducing Sublime Text"
 date:       2015-09-19 18:45:00
 author:     "colleowino"
+published: true
 ---
 Being a good web developer is all about knowing your tools and one of my favorites has been sublime text. Being that you can get it for free only makes the deal sweeter. Although the free version comes with a nag screen. That surprisingly shows its beautiful message when you are walkikng people through code examples. None the less its a tool that I highly recommend.
 
