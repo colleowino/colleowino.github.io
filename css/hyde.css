@@ -249,13 +249,13 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Maroon */
+/* sweet brown */
 .theme-base-0g .sidebar {
-  background-color: #724454;
+  background-color: #FACF9C;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #724454;
+  color: #FACF9C;
 }
 
 /* Cyan */
