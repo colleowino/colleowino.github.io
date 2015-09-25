@@ -3,6 +3,8 @@ layout:     post
 title:      "Aligning Html elements"
 date:       2015-09-23 18:45:00
 author:     "colleowino"
+tags: html css
+categories: web
 published: true
 ---
 
