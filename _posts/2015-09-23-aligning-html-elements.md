@@ -23,6 +23,7 @@ You have two options depending on what you want to align. The only requirement i
 
 ##### aligning text:
 ![placeholder]({{ site.baseurl }}/img/uxpin-text-left.png)
+This can be used to align text sections of the page like Headings and paragraphs. Its important to note that applying this to anchor elements moves all elements withing it to the specified side. You may use it to align anchors styled as buttons to the center.
 
 {% highlight css %}
 .content {
@@ -32,7 +33,7 @@ You have two options depending on what you want to align. The only requirement i
 }
 {% endhighlight %}
 
-
+   
 ### Moving whole elements:
 ![placeholder]({{ site.baseurl }}/img/uxpin-div-center.png)
 If you want to align a block level element, Lets say a div to the right or the left you can easily do that using float. The only downside is that the element will be no longer occupy the whole line after but collapse to the width of its content.
