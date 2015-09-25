@@ -250,13 +250,23 @@ a.sidebar-nav-item:focus {
 }
 
 /* sweet brown */
-.theme-base-0g .sidebar {
+.theme-base-010 .sidebar {
   background-color: #FACF9C;
+}
+.theme-base-010 .content a,
+.theme-base-010 .related-posts li a:hover {
+  color: #FACF9C;
+}
+
+/* slack purple */
+.theme-base-0g .sidebar {
+  background-color: #4D394B;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #FACF9C;
+  color: #4D394B;
 }
+
 
 /* Cyan */
 
