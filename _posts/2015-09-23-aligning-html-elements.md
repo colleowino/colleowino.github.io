@@ -3,15 +3,13 @@ layout:     post
 title:      "Aligning Html elements"
 date:       2015-09-23 18:45:00
 author:     "colleowino"
+excerpt: "Often you want to align html elements either to the center or side of the line. I will go over a few solutions using uxpin's 
+<a href=\"http://www.uxpin.com/about-us.html\"> about page </a> as the sample along with chrome dev tools to investigate what's going in the background."
 tags: html css
 categories: web
 published: true
 ---
 
-<div class="message">
-Often you want to align html elements either to the center or side of the line. I will go over a few solutions using uxpin's 
-<a href="http://www.uxpin.com/about-us.html">about</a> page as the sample along with chrome dev tools to investigate what's going in the background. 
-</div>
 
 ### Workflow:
 
