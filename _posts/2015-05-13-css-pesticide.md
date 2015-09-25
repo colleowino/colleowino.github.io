@@ -2,6 +2,8 @@
 layout:     post
 title:      "Html, Css and pesticide."
 date:       2015-05-13 14:45:00
+tags: html css javascript browser-addon newbie
+categories: web
 author:     "colleowino"
 published: true
 ---
