@@ -13,7 +13,7 @@ title: "colleowino"
 tagline: "ship it, now!"
 
 # Dependencies
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 #permalinks
