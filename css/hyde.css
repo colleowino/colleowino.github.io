@@ -79,7 +79,12 @@ html {
 }
 
 .sidebar .social-box{
-	margin-left: -15px;
+	margin-left: -8px;
+	margin-top: -15px;
+}
+
+.sidebar .social-box i:hover{
+	color: #F74141;
 }
 
 /* About section */
