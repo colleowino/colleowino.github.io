@@ -51,7 +51,7 @@ You can fix that using *clear*
 You can center align divs using auto for right and left margins instead.
 
 {% highlight css %}
-.content {
+.middle {
 	margin: 0 auto;
 }
 {% endhighlight %}
