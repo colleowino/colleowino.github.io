@@ -87,6 +87,10 @@ html {
 	color: #F74141;
 }
 
+.sidebar .social-box i.fa{
+	font-size: 30px;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
