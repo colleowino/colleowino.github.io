@@ -45,7 +45,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -73,6 +72,14 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+}
+
+.sidebar a.social{
+	padding: 10px;
+}
+
+.sidebar .social-box{
+	margin-left: -15px;
 }
 
 /* About section */
