@@ -34,18 +34,17 @@ Unfortunately after booting into ubuntu the 2 partition are not mounted by defau
 - Click on the cog wheels and select "Edit mount options..." from the menu that show's up
 - Toggle the "Automatic mount options" It should appear "off" after
 - Tick the "mount at startup" option.
-- type in your password when prompted to and you are done.
+- Optional: I recommend you use a descriptive mount Point eg /mnt/backup
+- click done, type in your password when prompted to and your auto mount is setup. 
 - You may have to restart ubuntu for the changes to take effect
 
 #### Bookmark folders you use often 
 
 When you have the explorer open you can type **`ctrl+D`** and the shortcut will appear below the default folders eg Documents and other mounted file-systems.
 
-
 #### Editing the address bar
 
 Nautilus folders up the directory tree through a set of button tabs at the top of each folder. To edit the folder manually you can use **`Ctrl+L`**, the press **`Esc`** while the cursor is still on the address to return back to the default view 
-
 
  -----
 
