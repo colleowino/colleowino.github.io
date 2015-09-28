@@ -1,14 +1,14 @@
-#### My personal Blog 
+### My personal blog 
 Its built using Jekyll and hosted on git pages
 
-###[View Live Demo &rarr;](http://colleowino.github.io)
+[View Live Demo &rarr;](http://colleowino.github.io)
 
-### Getting started:
+### Getting started
 
-All you need to do is to install the jekyll gem, Then cd into the directory and run `jekyll server` and you are good to go.
+All you need to do is to install the jekyll gem, Then cd into the directory and run `jekyll serve` and you are good to go.
 
-### Themes: 
-I am using a variation of two themes, the first being [hyde](https://github.com/poole/hyde) and [tiffany](https://github.com/dubuyuye/blog.git)
-
-I also used [octicons](https://octicons.github.com/) and [font-awesome](http://fortawesome.github.io/Font-Awesome/)
+### Themes 
+I am using a variation of two jekyll themes, the first being [hyde](https://github.com/poole/hyde) and then [tiffany](https://github.com/dubuyuye/blog.git).
+The glyphicons in use are [octicons](https://octicons.github.com/) and [font-awesome](http://fortawesome.github.io/Font-Awesome/)
+You can get more themes [here](http://jekyllthemes.org/).
 
