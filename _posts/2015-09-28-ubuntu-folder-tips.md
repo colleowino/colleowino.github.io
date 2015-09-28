@@ -5,18 +5,16 @@ date:       2015-09-28 08:42:00
 tags: ubuntu linux nautilus tips shortcut hacks productivity 
 categories: ubuntu
 author:     "colleowino"
-excerpt: I have tend to organize my files into distinct folders, each with a particular purpose. To get the most ouf this, I utilize keyboard shortcuts among other things. Here I share my process.
+excerpt: I have tend to organize my files into distinct folders, each with a particular purpose. To get the most out of this, I utilize keyboard shortcuts among other things. Here I share my process.
 published: true
 
 ---
 
-Ubuntu ships with nautilus as its default file explorer. Its listed as "files" in the program list. The screenshots I have used my explanations may have a different icons and theme different from the default ubuntu theme. On my machine I am using the [arc theme](https://github.com/horst3180/Arc-theme) and [moka icons](http://snwh.org/moka/moka-icon-theme/download/)
+Ubuntu ships with nautilus as its default file explorer. It's listed as "files" in the programs list. The screenshots I have used my explanations may have a different icons and theme different from the default ubuntu theme. On my machine I am using the [arc theme](https://github.com/horst3180/Arc-theme) and [moka icons](http://snwh.org/moka/moka-icon-theme/download/)
 
-## Tips
+#### Add a global shortcut to open the files explorer (nautilus).
 
-#### Add shortcut to open the files explorer.
-
-After switching over to ubuntu, one of the first things I missed was the ability to open the file explore with the `Win+E` font combination. But its easy to fix. 
+After switching over to ubuntu, one of the first things I missed was the ability to open the file explore with the **`Win+E`** font combination. But its easy to fix. 
 
 - Open system settings
 - Select Keyboard, shortcuts tab and launcher Panel.
@@ -25,14 +23,29 @@ After switching over to ubuntu, one of the first things I missed was the ability
 
 ![placeholder]({{site.base-url}}/img/ubuntu-keyboard-shortcuts.png "setting home folder keyboard shortcut")
 
+#### Auto mount the extra partitions on your hard drive 
+
+I had have 3 partitions on my hard drive, one for windows, another for ubuntu and a third for all my data. This structure enables me to only worry about wiping one partion incase my OS started acting up. 
+
+Unfortunately after booting into ubuntu the 2 partition are not mounted by default so I had to set them up to auto mount.
+
+- Open Disks application
+- Select the partition you wish to automount
+- Click on the cog wheels and select "Edit mount options..." from the menu that show's up
+- Toggle the "Automatic mount options" It should appear "off" after
+- Tick the "mount at startup" option.
+- type in your password when prompted to and you are done.
+- You may have to restart ubuntu for the changes to take effect
+
 #### Bookmark folders you use often 
 
-When you have the explorer open you can type **`ctrl+D`** and the shortcut will appear belowe the default folders eg Documents and other mounted file-systems.
+When you have the explorer open you can type **`ctrl+D`** and the shortcut will appear below the default folders eg Documents and other mounted file-systems.
 
 
-#### Important shorcuts 
+#### Editing the address bar
 
-- **`Ctrl+L`** : When you want to copy the directory address. 
+Nautilus folders up the directory tree through a set of button tabs at the top of each folder. To edit the folder manually you can use **`Ctrl+L`**, the press **`Esc`** while the cursor is still on the address to return back to the default view 
+
 
  -----
 
