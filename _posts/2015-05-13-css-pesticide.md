@@ -45,7 +45,7 @@ When the page loads the browser saves a tree like structure of where every HTML 
 * Blocks/elements follow the box-model. They have borders, padding between the border and content inside them and margins between the border and elements outside them.
 * The important attributes of an element are its. width, height and position. They are just 2D boxes.
 
-**Play time:**</br>
+**Play time:**<br/>
 
 1. Open chrome browser and go to [http://pesticide.io](http://pesticide.io), click the “install on chrome” button.
 This extension will help you see the true beauty of html. We will use my favourite website as the example, you can substitute mine with any other.
