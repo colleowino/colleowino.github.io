@@ -27,7 +27,7 @@ After switching over to ubuntu, one of the first things I missed was the ability
 
 I had have 3 partitions on my hard drive, one for windows, another for ubuntu and a third for all my data. This structure enables me to only worry about wiping one partion incase my OS started acting up. 
 
-Unfortunately after booting into ubuntu the 2 partition are not mounted by default so I had to set them up to auto mount.
+Unfortunately after booting into ubuntu the other partitions are not mounted by default so I had to set them up to auto mount.
 
 - Open Disks application
 - Select the partition you wish to automount
