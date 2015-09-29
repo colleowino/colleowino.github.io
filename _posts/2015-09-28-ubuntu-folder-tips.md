@@ -32,9 +32,11 @@ Unfortunately after booting into ubuntu the other partitions are not mounted by 
 - Open Disks application
 - Select the partition you wish to automount
 - Click on the cog wheels and select "Edit mount options..." from the menu that show's up
+![disks]({{site.base-url}}/img/open-ubuntu-disks.png "start up ubuntu disks program")
 - Toggle the "Automatic mount options" It should appear "off" after
 - Tick the "mount at startup" option.
 - Optional: I recommend you use a descriptive mount Point eg /mnt/backup
+![auto mount]({{site.base-url}}/img/edit-mount-options.png "auto mounting partitions")
 - click done, type in your password when prompted to and your auto mount is setup. 
 - You may have to restart ubuntu for the changes to take effect
 
@@ -42,7 +44,13 @@ Unfortunately after booting into ubuntu the other partitions are not mounted by 
 
 When you have the explorer open you can type **`ctrl+D`** and the shortcut will appear below the default folders eg Documents and other mounted file-systems.
 
-#### Editing the address bar
+#### Use tabs.
+![folder tabs]({{site.base-url}}/img/ubuntu-folder-tabs.png "using tabs")
+They are better than having multiple file explorers open through **`ctrl+T`**
+
+
+#### Edit the address bar
+![address bar]({{site.base-url}}/img/edit-address-bar.png "editing the address bar")
 
 Nautilus folders up the directory tree through a set of button tabs at the top of each folder. To edit the folder manually you can use **`Ctrl+L`**, the press **`Esc`** while the cursor is still on the address to return back to the default view 
 
