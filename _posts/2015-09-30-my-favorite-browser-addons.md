@@ -8,6 +8,11 @@ excerpt: The best thing about web design is that the source is always available 
 published: true
 
 ---
+#### 1. [Pesticide](http://pesticide.io/)
+When analyzing the structure of a page, this addon enables you to see how the elements are nested and where the bounderies of an element lie.
+
+#### 2. Window resizer
+With this addon you won't have to keep resizing the page when testing the responsiveness of your web page.
 
 -----
 
