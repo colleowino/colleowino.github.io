@@ -8,11 +8,25 @@ excerpt: The best thing about web design is that the source is always available 
 published: true
 
 ---
-#### 1. [Pesticide](http://pesticide.io/)
+#### 1. [Pesticide](), [dev-site](http://pesticide.io/){:target="blank"}
 When analyzing the structure of a page, this addon enables you to see how the elements are nested and where the bounderies of an element lie.
 
-#### 2. Window resizer
+#### 2. [Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh){:target="blank"}
 With this addon you won't have to keep resizing the page when testing the responsiveness of your web page.
+
+#### 3. [what font?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) ,[dev-site](http://chengyinliu.com/whatfont.html){:target="blank"}
+Easiest way of finding out which fonts are used in a webpage in great detail. Includes the font-family, line height and font-weight among other things.
+
+#### 4. [web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm), [dev-site](http://chrispederick.com/work/web-developer/){:target="blank"} 
+This extension was the one of the first extensions to offer front end devs any real power over web pages before brower creators made dev tools avaialbe by default. 
+With these extension you outline elements and even disable javascript if needed.
+
+#### 5. [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg), [dev-site](https://wappalyzer.com/){:target="blank"}
+When analyzing the structure of a page, this addon enables you to see how the elements are nested and where the bounderies of an element lie.
+
+#### 5. [Panda Inspiration](https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko), [dev-site](https://wappalyzer.com/){:target="blank"}
+Its true that you can't anything you design won't exist in a vacuum and thus, why not start by learning about other great designs and use it as a basis or a form of inspiration to guide you. Panda makes it super easy to find great design inspiration on the web, you don't have to type anything, it will provide new sources when ever you open a new tab.
+
 
 -----
 
