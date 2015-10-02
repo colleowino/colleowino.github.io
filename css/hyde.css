@@ -290,3 +290,18 @@ a.sidebar-nav-item:focus {
 .text-center{
 	text-align: center;
 }
+
+/* sub */
+a.sub {
+	font-size: 9px;
+	font-weight: normal;
+	border: 1px solid #a5a5a5;
+	border-radius: 5px;
+	padding: 4px;
+}
+
+a.sub:hover{
+	background-color: #cedfe8;
+	text-decoration: none;
+	color: white;
+}
