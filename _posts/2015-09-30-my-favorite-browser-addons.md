@@ -8,7 +8,7 @@ excerpt: The best thing about web design is that the source is always available 
 published: true
 
 ---
-#### 1. [Pesticide]() [homepage](http://pesticide.io/){:target="blank" class="sub"}
+#### 1. [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) [homepage](http://pesticide.io/){:target="blank" class="sub"}
 When analyzing the structure of a page, this addon enables you to see how the elements are nested and where the bounderies of an element lie.
 
 #### 2. [Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh){:target="blank"}
