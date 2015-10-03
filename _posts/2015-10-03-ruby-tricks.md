@@ -28,10 +28,19 @@ I wanted to generate some random data for an app I was testing so I opted to use
 gem 'ffaker'
 require 'ffaker'
 
-# profit
+#### profit
 10.times do
 	puts  FFaker::Name.first_name
 end 
+{% endhighlight %}
+
+###
+Use better_errors gem, its a lot nicer than the default error display in rails
+
+{% highlight rb tabsize=2 %}
+group :development do
+  gem "better_errors"
+end
 {% endhighlight %}
 
 -----
