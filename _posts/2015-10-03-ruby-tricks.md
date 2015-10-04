@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ruby hacks/tricks"
 date:       2015-10-03 22:07:00
-tags: ruby curiosity
+tags: ruby hacks tips curiosity
 categories: ruby
 author:     "colleowino"
 excerpt: I wanted to know where ruby gem files are intalled and the where require actually looked for scripts 
@@ -38,9 +38,11 @@ end
 Use better_errors gem, its a lot nicer than the default error display in rails
 
 {% highlight rb tabsize=2 %}
+
 group :development do
   gem "better_errors"
 end
+
 {% endhighlight %}
 
 -----
