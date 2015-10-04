@@ -24,8 +24,7 @@ Its like irb with super powers
 I wanted to generate some random data for an app I was testing so I opted to use the ffaker gem. I found out it was easier than I expected. All you have to do is to include the gem, possibly the version and then require the gem afterwards.
 
 {% highlight rb tabsize=2 %}
-# You don't need this line to use in pry/irb 
-gem 'ffaker'
+gem 'ffaker' # You don't need this line to use in pry/irb 
 require 'ffaker'
 
 #### profit
