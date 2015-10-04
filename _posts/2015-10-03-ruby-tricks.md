@@ -33,8 +33,8 @@ require 'ffaker'
 end 
 {% endhighlight %}
 
-###
-Use better_errors gem, its a lot nicer than the default error display in rails
+### Use better_errors gem
+Its a lot nicer than the default error display in rails
 
 {% highlight rb tabsize=2 %}
 
@@ -43,8 +43,4 @@ group :development do
 end
 
 {% endhighlight %}
-
------
-
-Want to see something else added? <a href="mailto:colleowino@gmail.com?Subject=Hello">email me</a>
 
