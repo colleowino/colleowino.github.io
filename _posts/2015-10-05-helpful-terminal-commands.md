@@ -20,5 +20,8 @@ excerpt: To get the most out of your terminal you often need to remember command
 
 ` find -name "random-nae*" | wc -l ` #lists number of results through wc
 
+#### List all aliases and their definitions
+` alias ` or <code>which [keyword]<code>
+
 -----
 
