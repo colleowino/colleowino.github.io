@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "Sources of web and mobile design inspiration"
+date:       2015-10-07 13:09:00
+tags: inspiration favorites web mobile browser-addons
+categories: web
+author:     "colleowino"
+excerpt: This is just a list of web sites and browser extentions that showcase the best digital designs and helps keep you in the loop regarding web/mobile trends.
+
+---
+Where do you go when you want to create something beautiful? I guess you would have to look around at the best apps around to learn from the best. 
+
+#### 1. [panda](http://www.usepanda.com/){: target='blank' }
+I can't recommend this chrome new-tab extension enough. It forces you to always look at the best web design. Interesting to note that you don't have to have chrome installed to acess this tool. You can visit the [webapp](http://usepanda.com/app/#/)
+
+#### 2. [muzli](http://muz.li/){:target='blank'} 
+Its similar to panda. Although there are a few differences. The only issue is that you can't have two newtab extension on the same browser so you will have to decide to go with muzli or panda 
+
+#### 3. [awwwards](http://www.awwwards.com/){:target='blank'}
+This site awards the best web design from all over the world. You can submit your site and get praised for your skills. You can read their blog as well. Its possible to set it as one of the sources of inspiration in panda.
+
+#### 4. [android arsenal](https://android-arsenal.com/){:target='blank'}
+
+#### 5. [android niceties](http://androidniceties.tumblr.com/){:target='blank'}
+
+#### 6. [ux archive ](http://uxarchive.com/){:target='blank'}
+
+#### 7. [redsgn](http://redsgn.co/){:target='blank'}
+
+-----
+
+
