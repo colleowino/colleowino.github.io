@@ -22,6 +22,20 @@ The best way to learn git commands is to use them frequently and a cheat sheet c
 
 ### Add aliases:
 Once you get the hang of git commands you will find it easier to use short-hand commands instead of typing the whole line. You can modify your <code>.bashrc</code> if you use bash, <code>.zshrc</code> if you fancy zsh or modify your <code>.gitconfig</code> file which is neautral to both
+Immersion [lab-11](http://gitimmersion.com/lab_11.html) has more on the same.
+
+{% highlight rb %}
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit'
+alias gd='git diff'
+alias go='git checkout '
+alias gk='gitk --all&'
+alias gx='gitx --all'
+alias got='git '
+alias get='git '
+{% endhighlight %}
 
 -----
 
