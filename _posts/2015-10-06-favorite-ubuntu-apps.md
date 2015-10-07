@@ -29,5 +29,9 @@ install zsh <code>curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/t
 References: 
 [Become A Command-Line Power User With Oh-My-ZSH And Z](http://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
 
+#### install VLC
+It plays all the poplular media formats, set it as the default file type for all your media files and change the settings to open only a single vlc instance.
+`sudo apt-get install vlc`
+
 -----
 
