@@ -12,7 +12,7 @@ excerpt: Version control is key to any software development activity. There are 
 <code>sudo apt-get install git</code>
 
 #### Setup git
-You need to configure you git installation with your username and email. This email is atttached to every commit you make <code> git config --global user.email "youremail@provider.com </code> <code> git config --global user.name "user name" </code>
+You need to configure you git installation with your username and email. This email is atttached to every commit you make <code> git config --global user.email "youremail@provider.com</code> and <code>git config --global user.name "user name" </code>
 
 ### Play around with git 
 [git immersion](http://gitimmersion.com/)
