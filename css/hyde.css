@@ -91,6 +91,14 @@ html {
 	font-size: 30px;
 }
 
+.postings {
+	color: orange;
+	border: 1px solid white;
+	border-radius: 4px;
+	padding: 0 2px;
+	display: none;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
