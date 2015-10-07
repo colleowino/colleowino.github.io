@@ -18,7 +18,7 @@ Its like irb with super powers
 `ruby -e 'puts $:'`
 
 ### where gem files installed 
-`gem environment`
+`gem environment` or <code> bundle show [gemname]</code> inside your rails application
 
 ### use gem in ruby script
 I wanted to generate some random data for an app I was testing so I opted to use the ffaker gem. I found out it was easier than I expected. All you have to do is to include the gem, possibly the version and then require the gem afterwards.
@@ -33,7 +33,7 @@ require 'ffaker'
 end 
 {% endhighlight %}
 
-### Use better_errors gem
+### Use better\_errors gem
 Its a lot nicer than the default error display in rails
 
 {% highlight rb tabsize=2 %}
