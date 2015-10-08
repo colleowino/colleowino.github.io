@@ -34,6 +34,10 @@ This site awards the best web design from all over the world. You can submit you
 #### 7. [redsgn](http://redsgn.co/){:target='_blank'}
 ![ReDsgn](/img/redsgn.png)
 
+#### 7. [spoon graphics blog](http://blog.spoongraphics.co.uk/){:target='_blank'}
+![spoon graphics blog](/img/spoongraphics.png)
+I recommend that you sign up for the newsletter, Its quite colorfull and informative.
+
 -----
 
 
