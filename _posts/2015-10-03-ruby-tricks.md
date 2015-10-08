@@ -20,6 +20,9 @@ Its like irb with super powers
 ### where gem files installed 
 `gem environment` or <code> bundle show [gemname]</code> inside your rails application
 
+### View all available rake tasks 
+`rake --tasks`
+
 ### use gem in ruby script
 I wanted to generate some random data for an app I was testing so I opted to use the ffaker gem. I found out it was easier than I expected. All you have to do is to include the gem, possibly the version and then require the gem afterwards.
 
