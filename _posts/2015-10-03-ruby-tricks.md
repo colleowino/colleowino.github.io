@@ -23,6 +23,9 @@ Its like irb with super powers
 ### View all available rake tasks 
 `rake --tasks`
 
+### Showing rails routes in your browser
+<code>rake routes</code> or `http://localhost:3000/rails/info/routes` during development in your browser
+
 ### use gem in ruby script
 I wanted to generate some random data for an app I was testing so I opted to use the ffaker gem. I found out it was easier than I expected. All you have to do is to include the gem, possibly the version and then require the gem afterwards.
 
