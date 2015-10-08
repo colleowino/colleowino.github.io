@@ -46,6 +46,10 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 ![sidebar](/img/sidebar.png)
 The 5 best design links, every day
 
+#### 10. [ewebdesign newsletter](http://ewebdesign.com/weekly-newsletters-archive/){:target='_blank'}
+![ewebdesign newsletter](/img/ewebdesign.png)
+This is one of those newsletters that you just have to subscribe to. I like how they sample the newest tools in the web developer world.
+
 -----
 
 
