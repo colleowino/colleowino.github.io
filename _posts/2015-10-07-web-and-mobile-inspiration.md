@@ -42,6 +42,10 @@ I recommend that you sign up for the newsletter, Its quite colorfull and informa
 ![unheap](/img/unheap.png)
 I also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
 
+#### 9. [sidebar.io](http://sidebar.io/){:target='_blank'}
+![sidebar](/img/sidebar.png)
+The 5 best design links, every day
+
 -----
 
 
