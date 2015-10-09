@@ -11,7 +11,7 @@ published: true
 
 We all browse the web once in a while. I won’t ask you to tell your neighbor which websites you visit regularly but I would love to hear you explain to him/her how you think it works in “your own words”.
 
-let me give you my version of how it goes down and then at the end, you can judge for yourself if what wrote down fits into your mental model. Either way, the web works and we hope to keep it that way.
+Let me give you my version of how it goes down and then at the end, you can judge for yourself if what wrote down fits into your mental model. Either way, the web works and we hope to keep it that way.
 
 When you type in the address eg <a title="http://pesticide.io" href="http://pesticide.io">http://pesticide.io </a>and click enter, the browser creates a request which is then sent to the server.
 The server will interpret the request and return a response in a format that the browser understands &#8212; usually HTML along with its associated CSS and optionally Javascript files.
@@ -41,9 +41,9 @@ When the page loads the browser saves a tree like structure of where every HTML 
 
 **How it works:**<br/>
 
-* In a webpage, everything is a rectanglular “block”. Even the text. All represented by tags, some blocks will occupy a single line no matter their width, you can’t have other elements next to them.
+* In a webpage, everything is a rectangular “block”. Even the text. All represented by tags, some blocks will occupy a single line no matter their width, you can’t have other elements next to them.
 * Blocks/elements follow the box-model. They have borders, padding between the border and content inside them and margins between the border and elements outside them.
-* The important attributes of an element are its. width, height and position. They are just 2D boxes.
+* The important attributes of an element are its width, height and position. They are just 2D boxes.
 
 **Play time:**<br/>
 
@@ -55,18 +55,18 @@ click the “bug icon” on your top right corner of the browser just to see the
 Then Right-click anywhere in the browser. Then click “inspect element”
 A devTools will appear below the page.
 The html tags will be displayed in the first column and the next column will show the css for selected element.
-Take the magnifying glass, choose one big block in the html tags colum of the devTools.
-Unselect the css rules applied to it and then you even see the changes.
+Take the magnifying glass, choose one big block in the html tags column of the devTools.
+Uncheck the css rules applied to it and then you even see the changes.
 
 ###Summary
 
-**HTML:** Specifies the different parts of the page e.g headings(h1-h6), paragraphs(p).
+**HTML:** Specifies the different parts of the page e.g. headings(h1-h6), paragraphs(p).
 
-**CSS:**  Defines the styling/presentation e.g Headings font size should be 24px 
+**CSS:**  Defines the styling/presentation e.g. Headings font size should be 24px 
 <br/>
 like h1{ font-size: 24px; }
 
-**Javascript:**  Adds effects to the page, e.g transitioning in/out animations, validating user input and making ajax calls in the background.
+**Javascript:**  Adds effects to the page, e.g. transitioning in/out animations, validating user input and making ajax calls in the background.
 
 -----
 
