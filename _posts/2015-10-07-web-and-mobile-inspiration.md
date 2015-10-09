@@ -50,6 +50,10 @@ The 5 best design links, every day
 ![ewebdesign newsletter](/img/ewebdesign.png)
 This is one of those newsletters that you just have to subscribe to. I like how they sample the newest tools in the web developer world.
 
+#### 11. [betalist](http://betalist.com/){:target='_blank'}
+![betalist](/img/betalist.png)
+The 5 best design links, every day
+
 -----
 
 
