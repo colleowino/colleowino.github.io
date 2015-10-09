@@ -43,3 +43,8 @@ When looking at a the directory structure of a folder ls may not be enough but t
 You will have to download the .deb files for each installer but you can them up to update whenever you update the os [chrome](https://www.google.com/chrome/browser/desktop/) and 
 [opera](http://www.opera.com/computer)
 
+#### Install vim-gnome and tmux
+I find it better to work within the terminal and I can edit code using vim. The reason I chose vim-gnome is because it enables you to copy the the system clipboard "\* and through tmux you can open many tabs or windows in one terminal window.
+<code>sudo apt-get intstall tmux vim-gnome </code> 
+Then customize your <code>.tmux.conf </code> and <code>.vimrc</code> files as you see fit.
+
