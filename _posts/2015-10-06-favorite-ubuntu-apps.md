@@ -33,5 +33,9 @@ References:
 It plays all the poplular media formats, set it as the default file type for all your media files and change the settings to open only a single vlc instance.
 `sudo apt-get install vlc`
 
------
+#### install ranger and tree
+![ranger](/img/ranger.png)
+When looking at a the directory structure of a folder ls may not be enough but tree and ranger are the best addons you could use.
+<code>sudo apt-get install ranger</code> & <code>sudo apt-get install tree</code>
+[Installing and Using Ranger, a Terminal File Manager, on a Ubuntu](https://www.digitalocean.com/community/tutorials/installing-and-using-ranger-a-terminal-file-manager-on-a-ubuntu-vps)
 
