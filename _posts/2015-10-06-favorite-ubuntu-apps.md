@@ -39,3 +39,7 @@ When looking at a the directory structure of a folder ls may not be enough but t
 <code>sudo apt-get install ranger</code> & <code>sudo apt-get install tree</code>
 [Installing and Using Ranger, a Terminal File Manager, on a Ubuntu](https://www.digitalocean.com/community/tutorials/installing-and-using-ranger-a-terminal-file-manager-on-a-ubuntu-vps)
 
+#### Install chrome and Opera browser.
+You will have to download the .deb files for each installer but you can them up to update whenever you update the os [chrome](https://www.google.com/chrome/browser/desktop/) and 
+[opera](http://www.opera.com/computer)
+
