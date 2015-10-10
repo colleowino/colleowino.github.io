@@ -16,4 +16,7 @@ Vim is all about mastering the keys that will get you what you want.
 ![vim folding cheat](/img/vim-folding.png)
 [vim-folding-fun](https://www.linux.com/learn/tutorials/442438-vim-tips-folding-fun)
 
+##### Plugins:
+[best of vim](http://www.bestofvim.com/plugin/)
+
 
