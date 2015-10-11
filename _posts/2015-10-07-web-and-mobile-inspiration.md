@@ -5,14 +5,14 @@ date:       2015-10-07 13:09:00
 tags: inspiration favorites web mobile browser-addons
 categories: web
 author:     "colleowino"
-excerpt: This is just a list of web sites and browser extentions that showcase the best digital designs and helps keep you in the loop regarding web/mobile trends.
+excerpt: This is just a list of web sites and browser extensions that showcase the best digital designs and helps keep you in the loop regarding web/mobile trends.
 
 ---
 Where do you go when you want to create something beautiful? I guess you would have to look around at the best apps around to learn from the best. 
 
 #### 1. [panda](http://www.usepanda.com/){: target='_blank' }
 ![muzli](/img/panda.png)
-I can't recommend this chrome new-tab extension highly enough. It forces you to always look at the best web design. Interesting to note that you don't have to have chrome installed to acess this tool. You can visit the [webapp](http://usepanda.com/app/#/)
+I can't recommend this chrome new-tab extension highly enough. It forces you to always look at the best web design. Interesting to note that you don't have to have chrome installed to access this tool. You can visit the [webapp](http://usepanda.com/app/#/)
 
 #### 2. [muzli](http://muz.li/){:target='_blank'} 
 ![muzli](/img/muzli.png)
@@ -36,7 +36,7 @@ This site awards the best web design from all over the world. You can submit you
 
 #### 8. [spoon graphics blog](http://blog.spoongraphics.co.uk/){:target='_blank'}
 ![spoon graphics blog](/img/spoongraphics.png)
-I recommend that you sign up for the newsletter, Its quite colorfull and informative.
+I recommend that you sign up for the newsletter, Its quite colorful and informative.
 
 #### 9. [unheap](http://www.unheap.com/){:target='_blank'}
 ![unheap](/img/unheap.png)
