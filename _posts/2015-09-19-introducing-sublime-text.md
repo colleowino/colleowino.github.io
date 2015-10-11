@@ -5,7 +5,7 @@ date:       2015-09-19 18:45:00
 author:     "colleowino"
 published: true
 ---
-Being a good web developer is all about knowing your tools and one of my favorites has been sublime text. Being that you can get it for free only makes the deal sweeter. Although the free version comes with a nag screen. That surprisingly shows its beautiful message when you are walkikng people through code examples. None the less its a tool that I highly recommend.
+Being a good web developer is all about knowing your tools and one of my favorites has been sublime text. Being that you can get it for free only makes the deal sweeter. Although the free version comes with a nag screen. That surprisingly shows its beautiful message when you are walking people through code examples. None the less its a tool that I highly recommend.
 
 For a long time I was a <a target="_blank" href="https://notepad-plus-plus.org">notepad++</a> user but the day I discovered Sublime text was the day that I jumped ship. The main reason was that you could easily change the theme and for me customization is always a big win. 
 
