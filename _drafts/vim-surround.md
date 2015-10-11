@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Playing around with the vim surround plug-in"
+title:      "using vim surround plug-in"
 date:       2015-10-11 03:21:00 PM
 tags: vim terminal hacks tips productivity
 categories: ubuntu
