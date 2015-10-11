@@ -19,19 +19,19 @@ After switching over to ubuntu, one of the first things I missed was the ability
 - Open system settings
 - Select Keyboard, shortcuts tab and launcher Panel.
 - Locate and click **Home folder**, then click type the desired keyboard shortcut. In this case the "win" key or super and E. 
-- Close The settings dialog and try out the shorcut.
+- Close The settings dialog and try out the shortcut.
 
 ![placeholder]({{site.base-url}}/img/ubuntu-keyboard-shortcuts.png "setting home folder keyboard shortcut")
 
 #### Auto mount the extra partitions on your hard drive 
 
-I had have 3 partitions on my hard drive, one for windows, another for ubuntu and a third for all my data. This structure enables me to only worry about wiping one partion incase my OS started acting up. 
+I had have 3 partitions on my hard drive, one for windows, another for ubuntu and a third for all my data. This structure enables me to only worry about wiping one partition in case my OS started acting up. 
 
 Unfortunately after booting into ubuntu the other partitions are not mounted by default so I had to set them up to auto mount.
 
 - Open Disks application
 - Select the partition you wish to automount
-- Click on the cog wheels and select "Edit mount options..." from the menu that show's up
+- Click on the cog wheels and select "Edit mount options..." from the menu that shows up
 ![disks]({{site.base-url}}/img/open-ubuntu-disks.png "start up ubuntu disks program")
 - Toggle the "Automatic mount options" It should appear "off" after
 - Tick the "mount at startup" option.
@@ -42,7 +42,7 @@ Unfortunately after booting into ubuntu the other partitions are not mounted by 
 
 #### Bookmark folders you use often 
 
-When you have the explorer open you can type **`ctrl+D`** and the shortcut will appear below the default folders eg Documents and other mounted file-systems.
+When you have the explorer open you can type **`ctrl+D`** and the shortcut will appear below the default folders e.g. Documents and other mounted file-systems.
 
 #### Use tabs.
 ![folder tabs]({{site.base-url}}/img/ubuntu-folder-tabs.png "using tabs")
@@ -53,8 +53,4 @@ They are better than having multiple file explorers open through **`ctrl+T`**
 ![address bar]({{site.base-url}}/img/edit-address-bar.png "editing the address bar")
 
 Nautilus folders up the directory tree through a set of button tabs at the top of each folder. To edit the folder manually you can use **`Ctrl+L`**, the press **`Esc`** while the cursor is still on the address to return back to the default view 
-
- -----
-
-Want to see something else added? <a href="mailto:colleowino@gmail.com?Subject=Hello">email me</a>
 
