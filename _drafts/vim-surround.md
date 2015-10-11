@@ -34,3 +34,6 @@ You can change 'hello' to "hello" by placing the cursor inside the word and typi
 Which read <strong>change surround single-quotes to double-quotes</strong> you can interchange them.<br/>
 That works for all other surrounds except tags e.g.	`<em>` For those you have to change them to another surround then back to your desired tag. So `cst'` <strong>Change surround to single-quote</strong> then `cs'<p>`
 
+##### Surrounding a selection in Visual mode.
+Highlight the text you want to surround and type `S` plus the desired end. e.g. `S<em` on `Hello world` will result in `<em>Hello world</em>` The closing end will be placed on the next line.
+
