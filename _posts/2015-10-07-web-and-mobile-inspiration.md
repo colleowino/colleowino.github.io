@@ -54,6 +54,10 @@ This is one of those newsletters that you just have to subscribe to. I like how 
 ![betalist](/img/betalist.png)
 The 5 best design links, every day
 
+#### 12. [speakerdeck](https://speakerdeck.com/){:target='_blank'}
+![speakerdeck](/img/speaker-deck.png)
+This is one source for the best presentation designs. There may be no audio but the typography is enough 
+
 -----
 
 
