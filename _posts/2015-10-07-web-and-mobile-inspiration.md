@@ -58,6 +58,10 @@ The 5 best design links, every day
 ![speakerdeck](/img/speaker-deck.png)
 This is one source for the best presentation designs. There may be no audio but the typography is enough 
 
+#### 13. [Design Inspiration](http://designspiration.net){:target='_blank'}
+![Design Inspiration](/img/design-inspiration.png)
+You can visit this site to browse general design inspiration.
+
 -----
 
 
