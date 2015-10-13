@@ -3,7 +3,7 @@ layout:     post
 title:      "using vim surround plug-in"
 date:       2015-10-11 03:21:00 PM
 tags: vim terminal hacks tips productivity
-categories: ubuntu
+categories: tools
 author:     "colleowino"
 excerpt: Dealing with markup is hard enough but after installing the surround plug-in things got a little easier 
 
