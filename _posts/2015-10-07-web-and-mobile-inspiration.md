@@ -3,7 +3,7 @@ layout:     post
 title:      "Sources of web and mobile design inspiration"
 date:       2015-10-07 13:09:00
 tags: inspiration favorites web mobile browser-addons
-categories: web
+categories: resources
 author:     "colleowino"
 excerpt: This is just a list of web sites and browser extensions that showcase the best digital designs and helps keep you in the loop regarding web/mobile trends.
 
