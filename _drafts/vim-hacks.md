@@ -3,7 +3,7 @@ layout:     post
 title:      "vim editor: hacks and tricks"
 date:       2015-10-11 02:21:00 PM
 tags: vim terminal hacks tips productivity
-categories: ubuntu
+categories: tools
 author:     "colleowino"
 excerpt: As a developer knowing your tools in and out will save you a great deal of time and make you more productive. I was a big fan of sublime text but after I gave vim a chance I never looked back 
 
