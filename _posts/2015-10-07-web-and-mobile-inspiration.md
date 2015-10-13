@@ -40,7 +40,7 @@ Where do you go when you want to create something beautiful? I guess you would h
 
 #### 9. [unheap](http://www.unheap.com/){:target='_blank'}
 ![unheap](/img/unheap.png)
-	i also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
+I also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
 
 #### 10. [sidebar.io](http://sidebar.io/){:target='_blank'}
 ![sidebar](/img/sidebar.png) the 5 best design links, every day
@@ -69,8 +69,11 @@ Where do you go when you want to create something beautiful? I guess you would h
 ![scotch.io](/img/scotch.png)
 You can find fantastic tutorials on web technologies especially javascript and node.
 
-#### 18. [inspiration DE](www.inspirationde.com){:target='_blank'}
+#### 18. [inspiration DE](http://www.inspirationde.com){:target='_blank'}
 ![inspirationDE](/img/inspiration-de.png)
+
+#### 19. [prismatic-news](http://getprismatic.com/news){:target='_blank'}
+![prismatic](/img/prismatic.png)
 
 -----
 
