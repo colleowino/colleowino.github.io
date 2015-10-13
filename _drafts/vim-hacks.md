@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "various hacks and tricks on using vim editor"
+title:      "vim editor: hacks and tricks"
 date:       2015-10-11 02:21:00 PM
 tags: vim terminal hacks tips productivity
 categories: ubuntu
