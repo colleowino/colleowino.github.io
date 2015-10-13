@@ -79,6 +79,11 @@ You can find fantastic tutorials on web technologies especially javascript and n
 ![pinterest](/img/pinterest.png)
 This was obvious.
 
+#### 21. [behance-curated](https://www.behance.net/galleries/curated){:target='_blank'}
+![behance curated](/img/be-curated.png)
+The main behance site is fine but to get the best of the best I recommend visiting the
+curated lists based on what kind of inspiration you seek
+
 -----
 
 
