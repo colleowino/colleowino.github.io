@@ -12,6 +12,10 @@ excerpt: As a developer knowing your tools in and out will save you a great deal
 #### Changing case:
 This usually works in visual mode after selecting text. press `u` to convert to lowercase, press `U` to convert to uppercase and backtick <code>`</code> to toggle case.
 
+#### Working with lines:
+Deleting lines `dd` or `D`
+Selecting an entire line `V`
+
 #### Shortcuts:
 Vim is all about mastering the keys that will get you what you want.
 
