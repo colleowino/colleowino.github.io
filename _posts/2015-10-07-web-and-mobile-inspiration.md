@@ -10,7 +10,6 @@ excerpt: This is just a list of web sites and browser extensions that showcase t
 ---
 Where do you go when you want to create something beautiful? I guess you would have to look around at the best apps around to learn from the best. 
 
-<ol>
 #### 1. [panda](http://www.usepanda.com/){: target='_blank' }
 ![muzli](/img/panda.png)
 	I can't recommend this chrome new-tab extension highly enough. It forces you to always look at the best web design. Interesting to note that you don't have to have chrome installed to access this tool. You can visit the [webapp](http://usepanda.com/app/#/)
@@ -41,28 +40,30 @@ Where do you go when you want to create something beautiful? I guess you would h
 
 #### 9. [unheap](http://www.unheap.com/){:target='_blank'}
 ![unheap](/img/unheap.png)
-	I also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
+	i also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
 
 #### 9. [sidebar.io](http://sidebar.io/){:target='_blank'}
 ![sidebar](/img/sidebar.png)
-	The 5 best design links, every day
+	the 5 best design links, every day
 
 #### 10. [ewebdesign newsletter](http://ewebdesign.com/weekly-newsletters-archive/){:target='_blank'}
 ![ewebdesign newsletter](/img/ewebdesign.png)
-	This is one of those newsletters that you just have to subscribe to. I like how they sample the newest tools in the web developer world.
+	this is one of those newsletters that you just have to subscribe to. i like how they sample the newest tools in the web developer world.
 
 #### 11. [betalist](http://betalist.com/){:target='_blank'}
 ![betalist](/img/betalist.png)
-	The 5 best design links, every day
+	the 5 best design links, every day
 
 #### 12. [speakerdeck](https://speakerdeck.com/){:target='_blank'}
 ![speakerdeck](/img/speaker-deck.png)
-	This is one source for the best presentation designs. There may be no audio but the typography is enough 
+	this is one source for the best presentation designs. there may be no audio but the typography is enough 
 
-#### 13. [Design Inspiration](http://designspiration.net){:target='_blank'}
-![Design Inspiration](/img/design-inspiration.png)
-	You can visit this site to browse general design inspiration.
-	</ol>
+#### 13. [design inspiration](http://designspiration.net){:target='_blank'}
+![design inspiration](/img/design-inspiration.png)
+
+#### 14. [from up north](http://fromupnorth.com){:target='_blank'}
+![from up north](/img/upnorth.png)
+
 -----
 
 
