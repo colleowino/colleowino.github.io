@@ -43,8 +43,7 @@ Where do you go when you want to create something beautiful? I guess you would h
 	i also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
 
 #### 9. [sidebar.io](http://sidebar.io/){:target='_blank'}
-![sidebar](/img/sidebar.png)
-	the 5 best design links, every day
+![sidebar](/img/sidebar.png) the 5 best design links, every day
 
 #### 10. [ewebdesign newsletter](http://ewebdesign.com/weekly-newsletters-archive/){:target='_blank'}
 ![ewebdesign newsletter](/img/ewebdesign.png)
@@ -52,7 +51,6 @@ Where do you go when you want to create something beautiful? I guess you would h
 
 #### 11. [betalist](http://betalist.com/){:target='_blank'}
 ![betalist](/img/betalist.png)
-	the 5 best design links, every day
 
 #### 12. [speakerdeck](https://speakerdeck.com/){:target='_blank'}
 ![speakerdeck](/img/speaker-deck.png)
