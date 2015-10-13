@@ -5,8 +5,9 @@ date:       2015-05-13 14:45:00
 tags: html css javascript browser-addon newbie
 categories: web
 author:     "colleowino"
-excerpt: This is actually a cross posted blog post I had written on Moringa school's <a href=https://moringaschool.wordpress.com/2015/05/13/html-css-and-pesticide/>blog</a> targeted at those who are curious about how web pages work but had never really the gone far in their quest. 
+excerpt: "This is actually a cross posted blog post I had written on Moringa school's <a href=https://moringaschool.wordpress.com/2015/05/13/html-css-and-pesticide/>blog</a> targeted at those who are curious about how web pages work but had never really the gone far in their quest."
 published: true
+
 ---
 
 We all browse the web once in a while. I won’t ask you to tell your neighbor which websites you visit regularly but I would love to hear you explain to him/her how you think it works in “your own words”.
