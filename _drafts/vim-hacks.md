@@ -13,7 +13,7 @@ excerpt: As a developer knowing your tools in and out will save you a great deal
 This usually works in visual mode after selecting text. press `u` to convert to lowercase, press `U` to convert to uppercase and backtick <code>`</code> to toggle case.
 
 #### Working with lines:
-Deleting lines `dd` or `D`
+Deleting lines `dd` or `D`<br/>
 Selecting an entire line `V`
 
 #### Shortcuts:
@@ -30,5 +30,11 @@ Vim is all about mastering the keys that will get you what you want.
 If you do a lot of html/css work you can't go wrong with this one. The default trigger
 keys being `<C-y>,` 
 
-	cd ~/.vim/bundle
-	git clone https://github.com/mattn/emmet-vim.git
+	git clone https://github.com/mattn/emmet-vim.git ~/.vim/bundle/vim-easymotion
+
+##### easy-motion
+If the cursor was at the first line and you wanted to move to the 5th word of the 8th
+line, you would have to move 4j, 8w. With easy-motion you don't have to do this mental
+math. <br/>
+
+	git clone https://github.com/easymotion/vim-easymotion ~/.vim/bundle/vim-easymotion
