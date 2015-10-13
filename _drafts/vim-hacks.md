@@ -23,7 +23,12 @@ Vim is all about mastering the keys that will get you what you want.
 ![vim folding cheat](/img/vim-folding.png)
 [vim-folding-fun](https://www.linux.com/learn/tutorials/442438-vim-tips-folding-fun)
 
-##### Plugins:
+#### Plugins:
 [best of vim](http://www.bestofvim.com/plugin/)
 
+##### emmet
+If you do a lot of html/css work you can't go wrong with this one. The default trigger
+keys being `<C-y>,` 
 
+	cd ~/.vim/bundle
+	git clone https://github.com/mattn/emmet-vim.git
