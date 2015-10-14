@@ -84,6 +84,11 @@ This was obvious.
 The main behance site is fine but to get the best of the best I recommend visiting the
 curated lists based on what kind of inspiration you seek
 
+#### 23. [uxpin whitepapers](http://studio.uxpin.com/ebooks/){:target='_blank'}
+![uxpin whitepapers](/img/uxpin.png)
+If you are really into Ux then this resource will be perfect for you, I recommend reading
+the best web designs trends of the year.
+
 -----
 
 
