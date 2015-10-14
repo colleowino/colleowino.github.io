@@ -38,3 +38,6 @@ line, you would have to move 4j, 8w. With easy-motion you don't have to do this 
 math. <br/>
 
 	git clone https://github.com/easymotion/vim-easymotion ~/.vim/bundle/vim-easymotion
+
+#### More reading
+[all the right moves](http://vim.wikia.com/wiki/All_the_right_moves)
