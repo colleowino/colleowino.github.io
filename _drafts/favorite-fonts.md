@@ -17,3 +17,10 @@ design but I believe that having a relatively newer typeface adds depth to your 
 - resources: font squirell, 
 - Lato, Open sans, Source sans pro
 
+The majority of fonts on this list are sans, simply because on web/mobile interfaces people don't often read long text and hence the sans typeface will be the best choice
+
+1. [work-sans](http://weiweihuanghuang.github.io/Work-Sans/)
+
+If you are looking for something that gives you that magazine vibe this is your font
+![work-sans](/img/work-sans.png/ " work-sans in blue ")
+	
