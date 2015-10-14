@@ -19,8 +19,16 @@ design but I believe that having a relatively newer typeface adds depth to your 
 
 The majority of fonts on this list are sans, simply because on web/mobile interfaces people don't often read long text and hence the sans typeface will be the best choice
 
-1. [work-sans](http://weiweihuanghuang.github.io/Work-Sans/)
+### Sans-serif:
 
+#### 1. [work-sans](http://weiweihuanghuang.github.io/Work-Sans/){:target='_blank'}
 If you are looking for something that gives you that magazine vibe this is your font
 ![work-sans](/img/work-sans.png/ " work-sans in blue ")
 	
+### Serifs:
+
+#### 2. [playfair display](http://www.fontsquirrel.com/fonts/playfair-display){:target='_blank'}
+In case you wanted that clarendon feel to your design
+![pinterest](/img/playfair.png)
+
+
