@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "rails overview"
-date:       2015-10-14 06:32:00 pm
+date:       2015-10-15 01:20:00 am
 tags: ruby rails tips overview
 categories: drafts
 author:     "colleowino"
