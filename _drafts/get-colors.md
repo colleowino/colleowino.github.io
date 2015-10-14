@@ -13,4 +13,8 @@ you can use to get the perfect color combination"
 You could go for tried and tested color schemes such as those provided in user interface
 guidelines e.g. Android
 
+##### flat-ui
+<a href="http://flatuicolors.com/" target="_blank">
+![flatui](/img/flatui.png "go get the flatui color scheme")
+</a>
 
