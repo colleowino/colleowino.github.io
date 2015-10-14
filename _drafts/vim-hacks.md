@@ -10,7 +10,7 @@ excerpt: As a developer knowing your tools in and out will save you a great deal
 ---
 
 #### Changing case:
-This usually works in visual mode after selecting text. press `u` to convert to lowercase, press `U` to convert to uppercase and backtick <code>`</code> to toggle case.
+This usually works in visual mode after selecting text. Press `u` to convert to lowercase, press `U` to convert to uppercase and backtick <code>`</code> to toggle case.
 
 #### Working with lines:
 Deleting lines `dd` or `D`<br/>
@@ -38,6 +38,11 @@ line, you would have to move 4j, 8w. With easy-motion you don't have to do this 
 math. <br/>
 
 	git clone https://github.com/easymotion/vim-easymotion ~/.vim/bundle/vim-easymotion
+
+#### lightline
+I prefer this status bar enhancement plugin compared to airline because it light weight.
+
+	git clone https://github.com/itchyny/lightline.vim.git ~/.vim/bundle/lightline
 
 #### More reading
 [all the right moves](http://vim.wikia.com/wiki/All_the_right_moves)
