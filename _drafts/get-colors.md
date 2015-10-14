@@ -33,3 +33,8 @@ guidelines e.g. Android
 ![coolors](/img/material.png )
 Google's material design colors 
 </a>
+
+- colorlovers
+- adobe kuler
+- plugin to get colors:
+	color zilla, color peek,
