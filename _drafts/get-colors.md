@@ -18,3 +18,8 @@ guidelines e.g. Android
 ![flatui](/img/flatui.png "go get the flatui color scheme")
 </a>
 
+##### color-hunt 
+<a href="http://www.colorhunt.co/" target="_blank">
+![flatui](/img/color-hunt.png "go get the flatui color scheme")
+</a>
+
