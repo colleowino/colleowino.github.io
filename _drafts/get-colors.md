@@ -20,6 +20,11 @@ guidelines e.g. Android
 
 ##### color-hunt 
 <a href="http://www.colorhunt.co/" target="_blank">
-![flatui](/img/color-hunt.png "go get the flatui color scheme")
+![flatui](/img/color-hunt.png )
+</a>
+
+##### Coolors 
+<a href="http://www.colorhunt.co/" target="_blank">
+![coolors](/img/coolors.png )
 </a>
 
