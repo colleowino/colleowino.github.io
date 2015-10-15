@@ -34,6 +34,11 @@ guidelines e.g. Android
 Google's material design colors 
 </a>
 
+##### colorpalettes 
+<a href="http://colorpalettes.net/" target="_blank">
+![coolors](/img/colorpalettes.png )
+Google's material design colors 
+</a>
 - colorlovers
 - adobe kuler
 - plugin to get colors:
