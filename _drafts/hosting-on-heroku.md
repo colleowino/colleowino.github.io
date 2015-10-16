@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hosting your rails application on heroku"
-date:       2015-10-16 13:20:00 
+date:       2015-10-16 01:20:00 pm
 tags: gems ruby rails heroku 
 categories: drafts
 author:     "colleowino"
