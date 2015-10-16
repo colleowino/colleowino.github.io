@@ -29,9 +29,15 @@ If you are looking for something that gives you that magazine vibe this is your 
 This font literally looks like Helvetica but with a twist, Its characters are wider.
 ![work-sans](/img/montserrat.png/)
 	
+#### 3. [Source sans pro](http://www.fontsquirrel.com/fonts/source-sans-pro){:target='_blank'} [homepage](http://blog.typekit.com/2012/08/02/source-sans-pro/){: class="sub"}
+If you are doing anything to do with code then this would be your best way to keep people
+within that context even when they are not looking at code. Its sister font being "source code pro".
+Looks a lot like `Whitney A` typeface
+![work-sans](/img/source-sans-pro.png/)
+
 ### Serifs:
 
-#### 3. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
+#### 4. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
 In case you wanted that clarendon feel to your design
 ![pinterest](/img/playfair.png)
 
