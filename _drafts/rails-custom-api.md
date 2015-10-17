@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "using python pip packages"
+title:      "making your own rails api"
 date:       2015-10-17 11:07:00 pm
 tags: newbie rails curiosity
 categories: drafts
