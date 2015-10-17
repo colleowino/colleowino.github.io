@@ -1,21 +1,18 @@
 ---
 layout:     post
-title:      "using genymotion emulator android"
-date:       2015-10-17 10:37:00 pm
+title:      "using 3rd party android libraries in your project"
+date:       2015-10-17 10:45:00 pm
 tags: android java xml
 categories: drafts
 author:     "colleowino"
-excerpt: "I was delighted to learn that there were other emulators I could use to test my
-android applications and genymotion is awesome, you could add google apps to it as well"
+excerpt: "It's advisable to reuse code as much as possible. With android things tend to be
+a bit complicated due to fragmentation of the platform"
 
 ---
-- install the thing
-- download a platform
-- setup virtual box.
-- Oh, You need an account 
-- run the app, have different versions.
-- add it to android studio 
-- build and run your applications.
+- head to wasabeef, android gems, link for must have android libraries
+- get one: check requirements
+- run the latest demo
+- get the basic blocks: use app intro as an example.
 
 #### further reading 
 - [get genymotion](https://www.genymotion.com)
