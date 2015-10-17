@@ -18,6 +18,4 @@ software to help learn how to touch type "
 #### further reading 
 - [github's dotfiles](https://dotfiles.github.io)
 - [chris hunt's dotfiles](https://github.com/chrishunt/dot-files)
-
-
-
+- [thought-bot](https://github.com/thoughtbot/dotfiles)
