@@ -11,7 +11,17 @@ excerpt: "The terminal is a wonderful place to work in but when you want to type
 
 - installation : zsh, oh-my-zsh
 - Configuration, enable extensions and change the theme, I recommmend
-- Use some extensions: what does it have to offer and the recommended reading
+
+### favorite plugins 
+
+#####  [syntax highlighting](http://github.com/zsh-users/zsh-syntax-highlighting)
+
+Fish shell like syntax highlighting for Zsh.
+
+	cd ~/.oh-my-zsh/custom/plugins
+	git clone git://github.com/zsh-users/zsh-syntax-highlighting.git
+
+	plugins=( ... zsh-syntax-highlighting)
 
 #### references:
 [badassify your terminal and shell](http://jilles.me/badassify-your-terminal-and-shell/)
