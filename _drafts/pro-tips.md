@@ -20,6 +20,5 @@ it then these are my pro tips"
 - Learn how to touch type
 - start blogging it helped me stream line my thoughts 
 
-
 [project euler](https://projecteuler.net/)
-
+[rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
