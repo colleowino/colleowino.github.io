@@ -89,6 +89,11 @@ curated lists based on what kind of inspiration you seek
 If you are really into Ux then this resource will be perfect for you, I recommend reading
 the best web designs trends of the year.
 
+#### 24. [abduzeedo weekly apps](http://abduzeedo.com/tags/weekly-apps){:target='_blank'}
+![abduzeedo weekly apps](/img/abduzeedo-weekly.png)
+If you are looking for a curated list of apps to draw inspiration from then abduzeedo's
+weekly round up is just what you are looking for.
+
 -----
 
 
