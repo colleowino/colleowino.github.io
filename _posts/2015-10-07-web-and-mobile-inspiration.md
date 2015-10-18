@@ -17,6 +17,7 @@ Where do you go when you want to create something beautiful? I guess you would h
 	I can't recommend this chrome new-tab extension highly enough. It forces you to always look at the best web design. Interesting to note that you don't have to have chrome installed to access this tool. You can visit the [webapp](http://usepanda.com/app/#/)
 
 #### 2. [muzli](http://muz.li/){:target='_blank'} 
+<a target="_blank" href="http://muz.li/"></a>
 ![muzli](/img/muzli.png)
 	Its similar to panda. Although there are a few differences. The only issue is that you can't have two newtab extension on the same browser so you will have to decide to go with muzli or panda 
 
