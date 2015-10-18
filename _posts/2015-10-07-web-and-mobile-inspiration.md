@@ -93,7 +93,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 </a>
 
 #### 16. [dribbble](https://dribbble.com/){:target='_blank'}
+<a target="_blank" href="https://dribbble.com/">
 ![dribbble](/img/dribbble.png)
+</a>
 
 #### 17. [scotch.io](https://scotch.io){:target='_blank'}
 ![scotch.io](/img/scotch.png)
