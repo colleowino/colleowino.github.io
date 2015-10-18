@@ -66,7 +66,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 </a>
 
 #### 11. [ewebdesign newsletter](http://ewebdesign.com/weekly-newsletters-archive/){:target='_blank'}
+<a target="_blank" href="http://ewebdesign.com/weekly-newsletters-archive/">
 ![ewebdesign newsletter](/img/ewebdesign.png)
+</a>
 	this is one of those newsletters that you just have to subscribe to. i like how they sample the newest tools in the web developer world.
 
 #### 12. [betalist](http://betalist.com/){:target='_blank'}
