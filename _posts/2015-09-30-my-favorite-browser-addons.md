@@ -21,6 +21,9 @@ When analyzing the structure of a page, this plugin enables you to see how the e
 With this addon you won't have to keep resizing the page when testing the responsiveness of your web page.
 
 #### 3. [what font?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) [homepage](http://chengyinliu.com/whatfont.html){:target="blank" class="sub"}
+<a target="_blank" href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm">
+![raindrop.io](/img/what-font.png)
+</a>
 Easiest way of finding out which fonts are used in a webpage in great detail. Includes the font-family, line height and font-weight among other things.
 
 #### 4. [web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) [homepage](http://chrispederick.com/work/web-developer/){:target="blank" class="sub"}
