@@ -72,7 +72,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 	this is one of those newsletters that you just have to subscribe to. i like how they sample the newest tools in the web developer world.
 
 #### 12. [betalist](http://betalist.com/){:target='_blank'}
+<a target="_blank" href="http://betalist.com/">
 ![betalist](/img/betalist.png)
+</a>
 
 #### 13. [speakerdeck](https://speakerdeck.com/){:target='_blank'}
 ![speakerdeck](/img/speaker-deck.png)
