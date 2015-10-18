@@ -39,5 +39,11 @@ for when you want to extract the colorscheme of web page.
 </a>
 Pick colors from the page that you are currently viewing.
 
+#### 9. [CSSViewer](https://chrome.google.com/webstore/detail/colorzilla/ggfgijbpiheegefliciemofobhmofgce) [homepage](http://colorzilla.com/){:target="blank" class="sub"}
+<a target="_blank" href="https://chrome.google.com/webstore/detail/colorzilla/ggfgijbpiheegefliciemofobhmofgce">
+![colorpeek](/img/cssviewer.png)
+</a>
+You don't have to go into dev-tools to know the properties of an element
+
 -----
 
