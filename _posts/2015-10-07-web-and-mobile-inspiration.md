@@ -39,7 +39,9 @@ Where do you go when you want to create something beautiful? I guess you would h
 </a>
 
 #### 6. [ux archive ](http://uxarchive.com/){:target='_blank'}
+<a target="_blank" href="http://uxarchive.com/">
 ![ux archive](/img/uxarchive.png)
+</a>
 
 #### 7. [redsgn](http://redsgn.co/){:target='_blank'}
 ![ReDsgn](/img/redsgn.png)
