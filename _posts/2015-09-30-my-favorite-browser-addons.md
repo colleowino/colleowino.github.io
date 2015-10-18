@@ -57,5 +57,11 @@ This enables you to view properly formated json files in your browser.
 </a>
 Change the css properties of any element on the page.
 
+#### 12. [Nimbus screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj) [homepage](http://nimbus.everhelper.me/screenshot.php){:target="blank" class="sub"}
+<a target="_blank" href="https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj">
+![colorpeek](/img/nimbus.png)
+</a>
+Take screenshots the easy way
+
 -----
 
