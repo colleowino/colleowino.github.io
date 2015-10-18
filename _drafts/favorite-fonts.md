@@ -43,9 +43,13 @@ It looks rather rounded but its fine. similar to `proxima nova`
 This was a font that I thought was the natural successor to Helvetica and Arial.
 ![work-sans](/img/open-sans.png/ )
 
+#### 6. [Roboto](http://www.fontsquirrel.com/fonts/roboto){:target='_blank'} 
+I fell in love with this font when they shipped this with android.
+![work-sans](/img/roboto.png/ )
+
 ### Serifs:
 
-#### 4. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
+#### 1. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
 In case you wanted that clarendon feel to your design
 ![pinterest](/img/playfair.png)
 
