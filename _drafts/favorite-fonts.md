@@ -35,6 +35,12 @@ within that context even when they are not looking at code. Its sister font bein
 Looks a lot like `Whitney A` typeface
 ![work-sans](/img/source-sans-pro.png/)
 
+
+#### 3. [Lato](http://www.latofonts.com/lato-free-fonts/#download){:target='_blank'} [homepage](http://www.latofonts.com/){: class="sub"}
+It looks rather rounded but its fine. similar to `proxima nova`
+![work-sans](/img/lato.png/ )
+
+
 ### Serifs:
 
 #### 4. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
