@@ -63,5 +63,12 @@ Change the css properties of any element on the page.
 </a>
 Take screenshots the easy way
 
+
+#### 13. [page ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) 
+<a target="_blank" href="https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn">
+![page ruler](/img/page-ruler.png)
+</a>
+Get the your measurements right
+
 -----
 
