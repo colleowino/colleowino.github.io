@@ -9,7 +9,7 @@ published: true
 
 ---
 #### 1. [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) [homepage](http://pesticide.io/){:target="blank" class="sub"}
-<a target="_blank" href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb">
+<a target="_blank" href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh">
 ![pesticide](/img/pesticide.png)
 </a>
 When analyzing the structure of a page, this plugin enables you to see how the elements are nested and where the boundaries of an element lie.
