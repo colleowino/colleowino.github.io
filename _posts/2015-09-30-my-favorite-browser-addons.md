@@ -35,31 +35,31 @@ for when you want to extract the colorscheme of web page.
 
 #### 8. [colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) [homepage](http://colorzilla.com/){:target="blank" class="sub"}
 <a target="_blank" href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp">
-![colorpeek](/img/colorzilla.png "the dropdown allows you to pick page color")
+![colorzilla](/img/colorzilla.png "the dropdown allows you to pick page color")
 </a>
 Pick colors from the page that you are currently viewing.
 
 #### 9. [CSSViewer](https://chrome.google.com/webstore/detail/colorzilla/ggfgijbpiheegefliciemofobhmofgce) 
 <a target="_blank" href="https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce">
-![colorpeek](/img/cssviewer.png)
+![cssviewer](/img/cssviewer.png)
 </a>
 You don't have to go into dev-tools to know the properties of an element
 
 #### 10. [JsonView](https://chrome.google.com/webstore/detail/colorzillaklaanhfefbnpoihckbnefhakgolnmc) 
 <a target="_blank" href="https://chrome.google.com/webstore/detail/colorzilla/chklaanhfefbnpoihckbnefhakgolnmc">
-![colorpeek](/img/jsonview.png)
+![json view](/img/jsonview.png)
 </a>
 This enables you to view properly formated json files in your browser.
 
 #### 11. [Live Css Editor](https://chrome.google.com/webstore/detail/live-css-editor/oelggcmknbjmhkpgjfhakedcfnkgbdpg) 
 <a target="_blank" href="https://chrome.google.com/webstore/detail/live-css-editor/oelggcmknbjmhkpgjfhakedcfnkgbdpg">
-![colorpeek](/img/livecss.png)
+![live css](/img/livecss.png)
 </a>
 Change the css properties of any element on the page.
 
 #### 12. [Nimbus screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj) [homepage](http://nimbus.everhelper.me/screenshot.php){:target="blank" class="sub"}
 <a target="_blank" href="https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj">
-![colorpeek](/img/nimbus.png)
+![nimbus](/img/nimbus.png)
 </a>
 Take screenshots the easy way
 
