@@ -61,7 +61,9 @@ I recommend that you sign up for the newsletter, Its quite colorful and informat
 I also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
 
 #### 10. [sidebar.io](http://sidebar.io/){:target='_blank'}
+<a target="_blank" href="http://sidebar.io/">
 ![sidebar](/img/sidebar.png) the 5 best design links, every day
+</a>
 
 #### 11. [ewebdesign newsletter](http://ewebdesign.com/weekly-newsletters-archive/){:target='_blank'}
 ![ewebdesign newsletter](/img/ewebdesign.png)
