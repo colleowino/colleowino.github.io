@@ -109,7 +109,9 @@ You can find fantastic tutorials on web technologies especially javascript and n
 </a>
 
 #### 19. [prismatic-news](http://getprismatic.com/news){:target='_blank'}
+<a target="_blank" href="http://getprismatic.com/news">
 ![prismatic](/img/prismatic.png)
+</a>
 
 #### 20. [pinterest](https://www.pinterest.com){:target='_blank'}
 ![pinterest](/img/pinterest.png)
