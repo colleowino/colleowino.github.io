@@ -63,8 +63,8 @@ Pick colors from the page that you are currently viewing.
 </a>
 You don't have to go into dev-tools to know the properties of an element
 
-#### 10. [JsonView](https://chrome.google.com/webstore/detail/colorzillaklaanhfefbnpoihckbnefhakgolnmc) 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/colorzilla/chklaanhfefbnpoihckbnefhakgolnmc">
+#### 10. [JsonView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) 
+<a target="_blank" href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">
 ![json view](/img/jsonview.png)
 </a>
 This enables you to view properly formated json files in your browser.
