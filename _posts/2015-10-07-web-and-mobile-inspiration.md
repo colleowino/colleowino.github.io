@@ -34,7 +34,9 @@ Where do you go when you want to create something beautiful? I guess you would h
 </a>
 
 #### 5. [android niceties](http://androidniceties.tumblr.com/){:target='_blank'}
+<a target="_blank" href="http://androidniceties.tumblr.com/">
 ![niceties](/img/niceties.png)
+</a>
 
 #### 6. [ux archive ](http://uxarchive.com/){:target='_blank'}
 ![ux archive](/img/uxarchive.png)
