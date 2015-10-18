@@ -114,7 +114,9 @@ You can find fantastic tutorials on web technologies especially javascript and n
 </a>
 
 #### 20. [pinterest](https://www.pinterest.com){:target='_blank'}
+<a target="_blank" href="https://www.pinterest.com">
 ![pinterest](/img/pinterest.png)
+</a>
 This was obvious.
 
 #### 21. [behance-curated](https://www.behance.net/galleries/curated){:target='_blank'}
