@@ -35,11 +35,13 @@ within that context even when they are not looking at code. Its sister font bein
 Looks a lot like `Whitney A` typeface
 ![work-sans](/img/source-sans-pro.png/)
 
-
-#### 3. [Lato](http://www.latofonts.com/lato-free-fonts/#download){:target='_blank'} [homepage](http://www.latofonts.com/){: class="sub"}
+#### 4. [Lato](http://www.latofonts.com/lato-free-fonts/#download){:target='_blank'} [homepage](http://www.latofonts.com/){: class="sub"}
 It looks rather rounded but its fine. similar to `proxima nova`
 ![work-sans](/img/lato.png/ )
 
+#### 5. [open sans](http://www.fontsquirrel.com/fonts/open-sans){:target='_blank'} 
+This was a font that I thought was the natural successor to Helvetica and Arial.
+![work-sans](/img/open-sans.png/ )
 
 ### Serifs:
 
