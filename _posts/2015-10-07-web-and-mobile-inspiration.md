@@ -55,7 +55,9 @@ Where do you go when you want to create something beautiful? I guess you would h
 I recommend that you sign up for the newsletter, Its quite colorful and informative.
 
 #### 9. [unheap](http://www.unheap.com/){:target='_blank'}
+<a target="_blank" href="http://www.unheap.com/">
 ![unheap](/img/unheap.png)
+</a>
 I also recommend you subscribe to this newsletter to get the latest updates from the javascript world.
 
 #### 10. [sidebar.io](http://sidebar.io/){:target='_blank'}
