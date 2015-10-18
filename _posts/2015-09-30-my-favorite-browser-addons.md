@@ -51,5 +51,11 @@ You don't have to go into dev-tools to know the properties of an element
 </a>
 This enables you to view properly formated json files in your browser.
 
+#### 11. [Live Css Editor](https://chrome.google.com/webstore/detail/live-css-editor/oelggcmknbjmhkpgjfhakedcfnkgbdpg) 
+<a target="_blank" href="https://chrome.google.com/webstore/detail/live-css-editor/oelggcmknbjmhkpgjfhakedcfnkgbdpg">
+![colorpeek](/img/livecss.png)
+</a>
+Change the css properties of any element on the page.
+
 -----
 
