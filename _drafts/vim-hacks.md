@@ -44,5 +44,11 @@ I prefer this status bar enhancement plugin compared to airline because it light
 
 	git clone https://github.com/itchyny/lightline.vim.git ~/.vim/bundle/lightline
 
-#### More reading
+#### youCompleteMe
+Its a fast, as-you-type, fuzzy-search code completion engine for Vim.
+- it requires you to build some things from source and download other things as well
+
+	git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/youCompleteMe
+
+### More reading
 [all the right moves](http://vim.wikia.com/wiki/All_the_right_moves)
