@@ -77,7 +77,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 </a>
 
 #### 13. [speakerdeck](https://speakerdeck.com/){:target='_blank'}
+<a target="_blank" href="https://speakerdeck.com">
 ![speakerdeck](/img/speaker-deck.png)
+</a>
 	this is one source for the best presentation designs. there may be no audio but the typography is enough 
 
 #### 14. [design inspiration](http://designspiration.net){:target='_blank'}
