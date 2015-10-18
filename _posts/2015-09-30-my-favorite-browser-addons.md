@@ -15,7 +15,7 @@ published: true
 When analyzing the structure of a page, this plugin enables you to see how the elements are nested and where the boundaries of an element lie.
 
 #### 2. [Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh){:target="blank"}
-<a target="_blank" href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb">
+<a target="_blank" href="https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh">
 ![window resizer](/img/window-resizer.png)
 </a>
 With this addon you won't have to keep resizing the page when testing the responsiveness of your web page.
