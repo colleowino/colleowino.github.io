@@ -51,6 +51,7 @@ I fell in love with this font when they shipped this with android.
 
 #### 1. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
 In case you wanted that clarendon feel to your design
-![pinterest](/img/playfair.png)
+![playfair](/img/playfair.png)
+
 
 
