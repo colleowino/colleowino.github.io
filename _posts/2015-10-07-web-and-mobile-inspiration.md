@@ -44,7 +44,9 @@ Where do you go when you want to create something beautiful? I guess you would h
 </a>
 
 #### 7. [redsgn](http://redsgn.co/){:target='_blank'}
+<a target="_blank" href="http://redsgn.co/">
 ![ReDsgn](/img/redsgn.png)
+</a>
 
 #### 8. [spoon graphics blog](http://blog.spoongraphics.co.uk/){:target='_blank'}
 ![spoon graphics blog](/img/spoongraphics.png)
