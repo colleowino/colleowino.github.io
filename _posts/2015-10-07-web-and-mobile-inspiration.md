@@ -98,7 +98,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 </a>
 
 #### 17. [scotch.io](https://scotch.io){:target='_blank'}
+<a target="_blank" href="https://scotch.io">
 ![scotch.io](/img/scotch.png)
+</a>
 You can find fantastic tutorials on web technologies especially javascript and node.
 
 #### 18. [inspiration DE](http://www.inspirationde.com){:target='_blank'}
