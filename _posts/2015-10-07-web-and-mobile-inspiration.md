@@ -104,7 +104,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 You can find fantastic tutorials on web technologies especially javascript and node.
 
 #### 18. [inspiration DE](http://www.inspirationde.com){:target='_blank'}
+<a target="_blank" href="http://www.inspirationde.com">
 ![inspirationDE](/img/inspiration-de.png)
+</a>
 
 #### 19. [prismatic-news](http://getprismatic.com/news){:target='_blank'}
 ![prismatic](/img/prismatic.png)
