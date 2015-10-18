@@ -9,6 +9,9 @@ published: true
 
 ---
 #### 1. [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) [homepage](http://pesticide.io/){:target="blank" class="sub"}
+<a target="_blank" href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb">
+![pesticide](/img/pesticide.png)
+</a>
 When analyzing the structure of a page, this plugin enables you to see how the elements are nested and where the boundaries of an element lie.
 
 #### 2. [Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh){:target="blank"}
