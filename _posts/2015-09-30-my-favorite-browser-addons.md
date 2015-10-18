@@ -33,5 +33,11 @@ Its true that you can't anything you design won't exist in a vacuum and thus, wh
 </a>
 for when you want to extract the colorscheme of web page.
 
+#### 8. [colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) [homepage](http://colorzilla.com/){:target="blank" class="sub"}
+<a target="_blank" href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp">
+![colorpeek](/img/colorzilla.png "the dropdown allows you to pick page color")
+</a>
+Pick colors from the page that you are currently viewing.
+
 -----
 
