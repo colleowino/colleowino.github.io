@@ -49,8 +49,10 @@ Where do you go when you want to create something beautiful? I guess you would h
 </a>
 
 #### 8. [spoon graphics blog](http://blog.spoongraphics.co.uk/){:target='_blank'}
+<a target="_blank" href="http://blog.spoongraphics.co.uk/">
 ![spoon graphics blog](/img/spoongraphics.png)
-	I recommend that you sign up for the newsletter, Its quite colorful and informative.
+</a>
+I recommend that you sign up for the newsletter, Its quite colorful and informative.
 
 #### 9. [unheap](http://www.unheap.com/){:target='_blank'}
 ![unheap](/img/unheap.png)
