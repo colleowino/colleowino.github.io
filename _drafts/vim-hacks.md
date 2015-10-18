@@ -56,3 +56,4 @@ Its a fast, as-you-type, fuzzy-search code completion engine for Vim.
 [vim casts](http://vimcasts.org/)
 The best article so far on vim [learn vim progressivley](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 [vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
+[lococast vim](http://lococast.net/archives/tag/vim)
