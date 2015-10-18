@@ -34,7 +34,7 @@ This extension was the one of the first extensions to offer front end devs any r
 With these extension you outline elements and even disable javascript if needed.
 
 #### 5. [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg) [homepage](https://wappalyzer.com/){:target="blank" class="sub"}
-<a target="_blank" href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb">
+<a target="_blank" href="https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg">
 ![wappalyzer](/img/wappalyzer.png)
 </a>
 When analyzing the structure of a page, this addon enables you to see how the elements are nested and where the boundaries of an element lie.
