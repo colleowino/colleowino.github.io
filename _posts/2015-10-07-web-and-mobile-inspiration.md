@@ -11,7 +11,9 @@ excerpt: This is just a list of web sites and browser extensions that showcase t
 Where do you go when you want to create something beautiful? I guess you would have to look around at the best apps around to learn from the best. 
 
 #### 1. [panda](http://www.usepanda.com/){: target='_blank' }
+<a target="_blank" href="http://www.usepanda.com/">
 ![muzli](/img/panda.png)
+</a>
 	I can't recommend this chrome new-tab extension highly enough. It forces you to always look at the best web design. Interesting to note that you don't have to have chrome installed to access this tool. You can visit the [webapp](http://usepanda.com/app/#/)
 
 #### 2. [muzli](http://muz.li/){:target='_blank'} 
