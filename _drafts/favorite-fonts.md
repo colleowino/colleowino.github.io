@@ -45,7 +45,7 @@ This was a font that I thought was the natural successor to Helvetica and Arial.
 
 #### 6. [Roboto](http://www.fontsquirrel.com/fonts/roboto){:target='_blank'} 
 I fell in love with this font when they shipped this with android.
-![work-sans](/img/roboto.png/ )
+![roboto](/img/roboto.png/ )
 
 ### Serifs:
 
