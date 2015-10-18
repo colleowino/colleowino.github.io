@@ -29,7 +29,9 @@ Where do you go when you want to create something beautiful? I guess you would h
 	This site awards the best web design from all over the world. You can submit your site and get praised for your skills. You can read their blog as well. Its possible to set it as one of the sources of inspiration in panda.
 
 #### 4. [android arsenal](https://android-arsenal.com/){:target='_blank'}
+<a target="_blank" href="https://android-arsenal.com/">
 ![android arsenal](/img/android-arsenal.png)
+</a>
 
 #### 5. [android niceties](http://androidniceties.tumblr.com/){:target='_blank'}
 ![niceties](/img/niceties.png)
