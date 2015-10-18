@@ -27,5 +27,8 @@ When analyzing the structure of a page, this addon enables you to see how the el
 #### 6. [Panda Inspiration](https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko) [homepage](http://usepanda.com/){:target="blank" class="sub"}
 Its true that you can't anything you design won't exist in a vacuum and thus, why not start by learning about other great designs and use it as a basis or a form of inspiration to guide you. Panda makes it super easy to find great design inspiration on the web, you don't have to type anything, it will provide new sources when ever you open a new tab.
 
+#### 7. [colorpeek](https://chrome.google.com/webstore/detail/colorpeek/bijmchgbjjmcmhldfpbamobldomjoioo) [homepage](http://colorpeek.com/){:target="blank" class="sub"}
+When analyzing the structure of a page, this addon enables you to see how the elements are nested and where the boundaries of an element lie.
+
 -----
 
