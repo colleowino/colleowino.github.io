@@ -83,7 +83,9 @@ I also recommend you subscribe to this newsletter to get the latest updates from
 	this is one source for the best presentation designs. there may be no audio but the typography is enough 
 
 #### 14. [design inspiration](http://designspiration.net){:target='_blank'}
+<a target="_blank" href=""http://designspiration.net>
 ![design inspiration](/img/design-inspiration.png)
+</a>
 
 #### 15. [from up north](http://fromupnorth.com){:target='_blank'}
 ![from up north](/img/upnorth.png)
