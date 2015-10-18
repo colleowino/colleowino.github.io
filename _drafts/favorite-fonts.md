@@ -37,11 +37,11 @@ Looks a lot like `Whitney A` typeface
 
 #### 4. [Lato](http://www.latofonts.com/lato-free-fonts/#download){:target='_blank'} [homepage](http://www.latofonts.com/){: class="sub"}
 It looks rather rounded but its fine. similar to `proxima nova`
-![work-sans](/img/lato.png/ )
+![lato](/img/lato.png/ )
 
 #### 5. [open sans](http://www.fontsquirrel.com/fonts/open-sans){:target='_blank'} 
 This was a font that I thought was the natural successor to Helvetica and Arial.
-![work-sans](/img/open-sans.png/ )
+![open-sans](/img/open-sans.png/ )
 
 #### 6. [Roboto](http://www.fontsquirrel.com/fonts/roboto){:target='_blank'} 
 I fell in love with this font when they shipped this with android.
