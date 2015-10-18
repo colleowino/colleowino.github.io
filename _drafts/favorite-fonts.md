@@ -53,5 +53,7 @@ I fell in love with this font when they shipped this with android.
 In case you wanted that clarendon feel to your design
 ![playfair](/img/playfair.png)
 
-
+#### 2. [libre baskerville](http://www.fontsquirrel.com/fonts/libre-baskerville){:target='_blank'}
+Baskerville is a really nice font when its italicised. You get that old book text feel.
+![baskerville](/img/baskerville.png)
 
