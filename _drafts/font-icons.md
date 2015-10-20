@@ -13,6 +13,9 @@ excerpt: "using images in your site usually comes at a cost of having a slower s
 - [twemoji](http://ellekasai.github.io/twemoji-awesome/)
 
 [bootstrap glyphyicons](http://marcoceppi.github.io/bootstrap-glyphicons/)
+<a target="_blank" href="http://marcoceppi.github.io/bootstrap-glyphicons/">
+	![linearicons](/img/bootstrap-glyph.png )
+</a> 
 
 [octicons](https://octicons.github.com/)
 <a target="_blank" href="https://octicons.github.com/">
