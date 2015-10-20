@@ -15,9 +15,12 @@ excerpt: "using images in your site usually comes at a cost of having a slower s
 - [octicons](https://octicons.github.com/)
 - [twemoji](http://ellekasai.github.io/twemoji-awesome/)
 
-- [ionicons](http://ionicons.com/)
+[ionicons](http://ionicons.com/)
+<a target="_blank" href="http://ionicons.com/">
+	![linearicons](/img/ionicons.png )
+</a> 
 
 [linearicons](https://linearicons.com/free#cheat-sheet)
 <a target="_blank" href="https://linearicons.com/free">
 	![linearicons](/img/linearicons.png )
-</a>
+</a> 
