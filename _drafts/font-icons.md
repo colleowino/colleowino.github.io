@@ -14,6 +14,10 @@ excerpt: "using images in your site usually comes at a cost of having a slower s
 - [boostrap social](http://lipis.github.io/bootstrap-social/)
 - [octicons](https://octicons.github.com/)
 - [twemoji](http://ellekasai.github.io/twemoji-awesome/)
-- [linearicons](https://linearicons.com/free#cheat-sheet)
+
 - [ionicons](http://ionicons.com/)
 
+[linearicons](https://linearicons.com/free#cheat-sheet)
+<a target="_blank" href="https://linearicons.com/free">
+	![linearicons](/img/linearicons.png )
+</a>
