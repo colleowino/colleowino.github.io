@@ -10,10 +10,19 @@ excerpt: "using images in your site usually comes at a cost of having a slower s
 ---
 
 - You have different options 
-- [bootstrap glyphyicons](http://marcoceppi.github.io/bootstrap-glyphicons/)
-- [boostrap social](http://lipis.github.io/bootstrap-social/)
-- [octicons](https://octicons.github.com/)
 - [twemoji](http://ellekasai.github.io/twemoji-awesome/)
+
+[bootstrap glyphyicons](http://marcoceppi.github.io/bootstrap-glyphicons/)
+
+[octicons](https://octicons.github.com/)
+<a target="_blank" href="https://octicons.github.com/">
+	![linearicons](/img/octicons.png )
+</a> 
+
+[boostrap social](http://lipis.github.io/bootstrap-social/)
+<a target="_blank" href="http://lipis.github.io/bootstrap-social/">
+	![linearicons](/img/bootstrap-social.png )
+</a> 
 
 [ionicons](http://ionicons.com/)
 <a target="_blank" href="http://ionicons.com/">
