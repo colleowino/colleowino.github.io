@@ -9,8 +9,12 @@ excerpt: "using images in your site usually comes at a cost of having a slower s
 
 ---
 
-- You have different options 
-- [twemoji](http://ellekasai.github.io/twemoji-awesome/)
+You have different options 
+
+[twemoji](http://ellekasai.github.io/twemoji-awesome/)
+<a target="_blank" href="http://ellekasai.github.io/twemoji-awesome">
+	![linearicons](/img/twemoji.png )
+</a> 
 
 [bootstrap glyphyicons](http://marcoceppi.github.io/bootstrap-glyphicons/)
 <a target="_blank" href="http://marcoceppi.github.io/bootstrap-glyphicons/">
