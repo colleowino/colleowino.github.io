@@ -55,6 +55,9 @@ In case you wanted that clarendon feel to your design
 Baskerville is a really nice font when its italicised. You get that old book text feel.
 ![baskerville](/img/baskerville.png)
 
+### Slab Serifs:
+
+
 #### further reading
 [google fonts experiment](http://femmebot.github.io/google-type/)
 
