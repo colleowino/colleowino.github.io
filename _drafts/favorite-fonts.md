@@ -14,8 +14,7 @@ design but I believe that having a relatively newer typeface adds depth to your 
 - How to use google fonts
 - the basic classes: sans, serif, slab-serif,
 - weights:
-- resources: font squirell, 
-- Lato, Open sans, Source sans pro
+- Source sans pro
 
 The majority of fonts on this list are sans, simply because on web/mobile interfaces people don't often read long text and hence the sans typeface will be the best choice
 
@@ -59,3 +58,5 @@ Baskerville is a really nice font when its italicised. You get that old book tex
 
 #### further reading
 [google fonts experiment](http://femmebot.github.io/google-type/)
+
+
