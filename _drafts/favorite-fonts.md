@@ -57,6 +57,10 @@ Baskerville is a really nice font when its italicised. You get that old book tex
 
 ### Slab Serifs:
 
+#### 1. [source serif pro](http://www.fontsquirrel.com/fonts/source-serif-pro){:target='_blank'}
+Another free font from the adobe. 
+![source serif pro](/img/source-serif.png)
+
 
 #### further reading
 [google fonts experiment](http://femmebot.github.io/google-type/)
