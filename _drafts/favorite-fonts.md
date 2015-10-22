@@ -14,7 +14,6 @@ design but I believe that having a relatively newer typeface adds depth to your 
 - How to use google fonts
 - the basic classes: sans, serif, slab-serif,
 - weights:
-- Source sans pro
 
 The majority of fonts on this list are sans, simply because on web/mobile interfaces people don't often read long text and hence the sans typeface will be the best choice
 
