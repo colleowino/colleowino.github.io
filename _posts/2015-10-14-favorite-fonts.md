@@ -3,7 +3,7 @@ layout:     post
 title:      "my favorite fonts/typefaces"
 date:       2015-10-14 02:07:00 AM
 tags: inspiration design fonts 
-categories: drafts
+categories: design
 author:     "colleowino"
 excerpt: "Its easy to go with what you are used to when picking a font for your next
 design but I believe that having a relatively newer typeface adds depth to your design" 
