@@ -48,7 +48,7 @@ I find it better to work within the terminal and I can edit code using vim. The 
 <code>sudo apt-get install tmux vim-gnome </code> 
 Then customize your <code>.tmux.conf </code> and <code>.vimrc</code> files as you see fit.
 
-#### get Kingsoft office
+#### get WPS (formerly Kingsoft) office
 I tried creating documents using libre office and I didn't like the experience, the best alternative is getting the free community version of kingsoft office.
 [kingsoft community](http://wps-community.org/download.html)
 ![kingsoft writer](/img/kingsoft-writer.png " screen after launching kingsoft office ")
