@@ -53,4 +53,6 @@ I tried creating documents using libre office and I didn't like the experience, 
 [kingsoft community](http://wps-community.org/download.html)
 ![kingsoft writer](/img/kingsoft-writer.png " screen after launching kingsoft office ")
 
-
+#### cmus and comp terminal music players
+Ever wanted to play music right from your terminal without opening up a pesky gui. Well, this is what you are looking for. Unfortunately they don't support vim navigation shortcut keys.
+`sudo apt-get install mocp cmus`
