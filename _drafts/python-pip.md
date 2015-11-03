@@ -11,7 +11,12 @@ out"
 
 ---
 #### install pip
+You will need to download the 
+[get-pip.py](https://raw.github.com/pypa/pip/master/contrib/get-pip.py){: target="_blank"}
+and run
 
+	sudo python get-pip.py
+	
 - the location of the help docs
 - the package itself
 - I piped it, the code I ran,
