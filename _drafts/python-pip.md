@@ -23,4 +23,4 @@ and run
 - explain how I got to the API and then check out the page numbers"
 
 #### further reading 
-- [get genymotion](https://www.genymotion.com)
+- [pip documentation](http://python-packaging-user-guide.readthedocs.org/en/latest/)
