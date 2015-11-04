@@ -17,9 +17,7 @@ and run
 
 	sudo python get-pip.py
 	
-- the location of the help docs
 - the package itself
-- I piped it, the code I ran,
 - explain how I got to the API and then check out the page numbers"
 
 #### further reading 
