@@ -14,5 +14,7 @@ installing google apps on it."
 
 Download and install [virtual-box](https://www.virtualbox.org/wiki/Linux_Downloads)
 
+Login to genymotion and download the [release](https://www.genymotion.com/#!/download)
+
 #### further reading 
 - [get genymotion](https://www.genymotion.com)
