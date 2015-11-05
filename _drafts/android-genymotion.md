@@ -12,6 +12,7 @@ installing google apps on it."
 - install genymotion
 - install gapps
 
+Download and install [virtual-box](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 #### further reading 
 - [get genymotion](https://www.genymotion.com)
