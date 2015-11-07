@@ -16,7 +16,7 @@ Download and install [virtual-box](https://www.virtualbox.org/wiki/Linux_Downloa
 
 Login to genymotion and download the [release](https://www.genymotion.com/#!/download)
 
-- set the file to executable and install it. 
+Set the file to executable, run it and finally download platforms.
 
 	chmod +x .genymotion-2.5.2_x64.bin
 	/.genymotion-2.5.2_x64.bin
