@@ -23,3 +23,6 @@ Set the file to executable, run it and finally download platforms.
 
 #### further reading 
 - [get genymotion](https://www.genymotion.com)
+- [intalling gapps on genymotion](http://stackoverflow.com/questions/17831990/how-do-you-install-google-frameworks-play-accounts-etc-on-a-genymotion-virt)
+After installing the gapps and restarting genymotion, some apps may crush.
+To fix them just reinstall them through the play store.
