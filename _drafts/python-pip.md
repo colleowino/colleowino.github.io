@@ -16,9 +16,6 @@ You will need to download the
 and run
 
 	sudo python get-pip.py
-	
-- the package itself
-- explain how I got to the API and then check out the page numbers"
 
 #### further reading 
 - [pip documentation](http://python-packaging-user-guide.readthedocs.org/en/latest/)
