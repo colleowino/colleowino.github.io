@@ -18,4 +18,4 @@ all you really need"
 - used it to create a file sync application 
 
 #### further reading 
-- [get genymotion](https://www.genymotion.com)
+- [tutorials point](http://www.tutorialspoint.com/java/java_overview.htm)
