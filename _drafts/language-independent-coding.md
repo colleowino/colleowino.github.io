@@ -10,6 +10,8 @@ a specific programming language"
 
 ---
 - start with the basics: try running javascript 
+- initial output
+- Operators: basic math
 - why: You don't have to go with the types provided 
 - Learning code:
 	- its not natural, you understand by doing and making assumptions, it will be hard
