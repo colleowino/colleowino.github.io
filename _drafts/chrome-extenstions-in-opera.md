@@ -12,8 +12,8 @@ You will have to install an opera addon that will enable you to install the chro
 
 ![opera addon](/img/chrome-opera.png "just click on the big green button ")
 
-- plugins: resurrect
-- set the status bar,
-- modify the .tmux.config file
-[vim shortcuts](https://gist.github.com/colleowino/4b5d6cf57ed1d2185d3d)
+After installing it, You can now go to the [chrome webstore](https://chrome.google.com/webstore) and download any extension.
+
+![opera activated](/img/opera-activated.png "the button on the chrome webstore changes ")
+
 
