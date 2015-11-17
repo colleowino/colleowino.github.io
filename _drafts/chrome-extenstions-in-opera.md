@@ -10,6 +10,8 @@ excerpt: "I am a big fan of opera and being able to install chrome extensions on
 ---
 You will have to install an opera addon that will enable you to install the chrome extensions. [here](https://addons.opera.com/en/extensions/details/download-chrome-extension-9/?display=en)
 
+![opera addon](/img/chrome-opera.png "just click on the big green button ")
+
 - plugins: resurrect
 - set the status bar,
 - modify the .tmux.config file
