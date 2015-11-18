@@ -9,6 +9,8 @@ excerpt: "Android is an exciting platform to develop applications in, its basica
 is the way it hands UI through xml. I cover creating a simple android app."
 
 ---
+You will need to download the installer. I prefer using a deb file that will donwload the required components from [here](http://paolorotolo.github.io/android-studio/)
+
 - Android: its java
 - There are MVC: model- code, view: controller, Activities
 - 3 page application, move through various files.
