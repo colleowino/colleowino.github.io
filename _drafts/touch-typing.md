@@ -9,11 +9,11 @@ excerpt: "I type really fast but it wasn't easy at the start, I can recommend so
 software to help learn how to touch type "
 
 ---
-- Install stamina [stamina](http://typingsoft.com/download.htm)
-
-- Some cool features:
+Install stamina [stamina](http://typingsoft.com/download.htm)
+It has some cool features:
 	 - Your own code, 
 	 - My own settings: cencor, set the text to 100.
+
 - Keep a record , sample of what I did
 - the key's that were hard to master
 - If you are fairly good use type [typing.io](https://typing.io/)
