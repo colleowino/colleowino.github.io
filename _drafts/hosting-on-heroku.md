@@ -10,7 +10,9 @@ excerpt: " having a portfolio is an important step towards getting a job in soft
 ---
 
 - have the sample application
-- install the toolbelt
+
+install the toolbelt from [here](https://toolbelt.heroku.com/)
+
 - create an account and signin locally
 - add the gems and bundle install 
 - host your application 
