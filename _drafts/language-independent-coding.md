@@ -23,6 +23,8 @@ a specific programming language"
 - Logic: if, else, conditions
 - looping: for each, while that's true. infenite loop.
 
+Remember that it's really about the person who you are doing it for.
+You need to understand what they see as value and not just something you made up
 #### further reading 
 - [byte of python](http://www.swaroopch.com/notes/python/)
 
