@@ -19,6 +19,8 @@ a specific programming language"
 	- palindrome
 	- store the values
 
+At that point in time you are talking to the machine, manipulating Memory and updating the display
+
 - Maniuplating values: in and out: variables
 - Logic: if, else, conditions
 - looping: for each, while that's true. infenite loop.
