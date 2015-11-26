@@ -3,6 +3,8 @@ Its built using Jekyll and hosted on git pages
 
 [View Live Demo &rarr;](http://colleowino.github.io)
 
+I changed a few things.
+
 ### Getting started
 
 All you need to do is to install the jekyll gem, Then cd into the directory and run `jekyll serve` and you are good to go.
