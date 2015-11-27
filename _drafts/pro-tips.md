@@ -20,6 +20,9 @@ it then these are my pro tips"
 - Learn how to touch type
 - start blogging it helped me stream line my thoughts 
 
+- Get into the habit of reading other people's code. You will learn other ways of solving the same problem differently.
+
+
 [project euler](https://projecteuler.net/)
 [rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 [hacker rank](https://www.hackerrank.com)
