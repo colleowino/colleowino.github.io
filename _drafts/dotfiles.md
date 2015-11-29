@@ -13,7 +13,8 @@ software to help learn how to touch type "
 - files are hidden with and use ctrl+H to show them
 - settings config: git, tmux, vim
 - sharing your files: create the repo and ignore some files, keep ignoring files
-	- you will have to update internal git repos on their own
+	- you will have to update internal git repos on their own-
+	- Use submodules for the plugin addons to presever their current state
 
 #### further reading 
 - [github's dotfiles](https://dotfiles.github.io)
