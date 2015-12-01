@@ -22,6 +22,8 @@ it then these are my pro tips"
 
 - Get into the habit of reading other people's code. You will learn other ways of solving the same problem differently.
 
+- You can build other android apps from source 
+
 
 [project euler](https://projecteuler.net/)
 [rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
