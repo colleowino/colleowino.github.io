@@ -25,6 +25,7 @@ it then these are my pro tips"
 - Find the details in your old repo.
 - You can build other android apps from source
 
+- Learn android or another mobile platform
 
 [project euler](https://projecteuler.net/)
 [rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
