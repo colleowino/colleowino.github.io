@@ -27,6 +27,8 @@ it then these are my pro tips"
 
 - Learn android or another mobile platform
 
+- Never be afraid to take on code, You may fail but its better to get on it.
+
 [project euler](https://projecteuler.net/)
 [rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 [hacker rank](https://www.hackerrank.com)
