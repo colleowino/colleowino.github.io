@@ -35,6 +35,9 @@ within the onCreate() method call.
         Preference username =  getPreferenceManager().findPreference("prefUsername");
         username.setSummary(sharedPrefs.getString("prefUsername","if_value_wasNull"));
         
+control your android device through chrome extensions:
+vysor and adb
+        
 #### further reading 
 - [android core documentation](http://developer.android.com/guide/topics/data/data-storage.html#filesInternal)
 
