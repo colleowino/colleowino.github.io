@@ -24,7 +24,7 @@ guidelines e.g. Android
 </a>
 
 ##### Coolors 
-<a href="http://www.colorhunt.co/" target="_blank">
+<a href="http://www.coolors.co/" target="_blank">
 ![coolors](/img/coolors.png )
 </a>
 
