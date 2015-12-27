@@ -16,6 +16,8 @@ software to help learn how to touch type "
 	- you will have to update internal git repos on their own-
 	- Use submodules for the plugin addons to presever their current state
 
+- and finally : profit!
+
 #### further reading 
 - [github's dotfiles](https://dotfiles.github.io)
 - [chris hunt's dotfiles](https://github.com/chrishunt/dot-files)
