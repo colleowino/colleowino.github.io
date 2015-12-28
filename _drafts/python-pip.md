@@ -17,5 +17,7 @@ and run
 
 	sudo python get-pip.py
 
+After installing pip all the libraries will be available in your scripts 
+
 #### further reading 
 - [pip documentation](http://python-packaging-user-guide.readthedocs.org/en/latest/)
