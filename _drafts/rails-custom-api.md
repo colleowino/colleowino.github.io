@@ -14,5 +14,7 @@ would need an api. So I made a crude one"
 - get the data into the models first
 - pass the data as json and see how android code will handle it.
 
+- Json is the best format
+
 #### further reading 
 - [get genymotion](https://www.genymotion.com)
