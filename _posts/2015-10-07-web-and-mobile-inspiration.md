@@ -108,32 +108,27 @@ You can find fantastic tutorials on web technologies especially javascript and n
 ![inspirationDE](/img/inspiration-de.png)
 </a>
 
-#### 19. [prismatic-news](http://getprismatic.com/news){:target='_blank'}
-<a target="_blank" href="http://getprismatic.com/news">
-![prismatic](/img/prismatic.png)
-</a>
-
-#### 20. [pinterest](https://www.pinterest.com){:target='_blank'}
+#### 19. [pinterest](https://www.pinterest.com){:target='_blank'}
 <a target="_blank" href="https://www.pinterest.com">
 ![pinterest](/img/pinterest.png)
 </a>
 This was obvious.
 
-#### 21. [behance-curated](https://www.behance.net/galleries/curated){:target='_blank'}
+#### 20. [behance-curated](https://www.behance.net/galleries/curated){:target='_blank'}
 <a target="_blank" href="https://www.behance.net/galleries/curated">
 ![behance curated](/img/be-curated.png)
 </a>
 The main behance site is fine but to get the best of the best I recommend visiting the
 curated lists based on what kind of inspiration you seek
 
-#### 23. [uxpin whitepapers](http://studio.uxpin.com/ebooks/){:target='_blank'}
+#### 21. [uxpin whitepapers](http://studio.uxpin.com/ebooks/){:target='_blank'}
 <a target="_blank" href="http://studio.uxpin.com/ebooks/">
 ![uxpin whitepapers](/img/uxpin.png)
 </a>
 If you are really into Ux then this resource will be perfect for you, I recommend reading
 the best web designs trends of the year.
 
-#### 24. [abduzeedo weekly apps](http://abduzeedo.com/tags/weekly-apps){:target='_blank'}
+#### 22. [abduzeedo weekly apps](http://abduzeedo.com/tags/weekly-apps){:target='_blank'}
 <a target="_blank" href="http://abduzeedo.com/tags/weekly-apps">
 ![abduzeedo weekly apps](/img/abduzeedo-weekly.png)
 </a>
