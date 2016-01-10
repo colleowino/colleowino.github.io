@@ -12,6 +12,9 @@ on that list"
 ---
 - get it from cdn
 - what about it 
+- 
+- its similar to pure css
+
 - the prebuilt
 - sample app showing how to add the header and then add the parts you want
 - the context class to display
