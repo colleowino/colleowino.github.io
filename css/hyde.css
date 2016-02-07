@@ -83,10 +83,6 @@ html {
 	margin-top: -15px;
 }
 
-.sidebar .social-box i:hover{
-	color: #F74141;
-}
-
 .sidebar .social-box i.fa{
 	font-size: 30px;
 }
@@ -281,6 +277,10 @@ a.sidebar-nav-item:focus {
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
   color: #08b5e5;
+}
+
+.sidebar .social-box i:hover{
+	color: #e6f8fd;
 }
 
 
