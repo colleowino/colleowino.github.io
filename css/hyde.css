@@ -274,13 +274,13 @@ a.sidebar-nav-item:focus {
   color: #FACF9C;
 }
 
-/* slack purple */
+/* kaggle blue */
 .theme-base-0g .sidebar {
-  background-color: #4D394B;
+  background-color: #08b5e5;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #4D394B;
+  color: #08b5e5;
 }
 
 
