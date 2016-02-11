@@ -41,7 +41,7 @@ If everything went well, the gitmodules file should look like this
 ### References
 [my dotfiles](https://github.com/colleowino/dot-files) You can see what other extensions am using. 
 <br/>
-[gitmodules manual](https://github.com/colleowino/dot-files) Sometimes you need the manual.
+[gitmodules manual](https://git-scm.com/book/en/v2/Git-Tools-Submodules) Sometimes you need the manual.
 
 -----
 
