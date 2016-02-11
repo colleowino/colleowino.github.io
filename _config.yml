@@ -14,7 +14,7 @@ tagline: "ship it, now!"
 
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 #permalinks
 permalink: pretty
