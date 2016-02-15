@@ -51,9 +51,10 @@ Its a fast, as-you-type, fuzzy-search code completion engine for Vim.
 	git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/youCompleteMe
 
 ### More reading
-[all the right moves](http://vim.wikia.com/wiki/All_the_right_moves)
-[vim wikia](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
-[vim casts](http://vimcasts.org/)
-The best article so far on vim [learn vim progressivley](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-[vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
-[lococast vim](http://lococast.net/archives/tag/vim)
+2. The best article so far on vim [learn vim progressivley](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+1. [all the right moves](http://vim.wikia.com/wiki/All_the_right_moves)
+2. [vim wikia](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
+2. [vim casts](http://vimcasts.org/)
+2. [usevim](http://usevim.com/)
+2. [vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
+2. [lococast vim](http://lococast.net/archives/tag/vim)
