@@ -42,11 +42,12 @@ end
 ### Use better\_errors gem
 Its a lot nicer than the default error display in rails
 
-{% highlight rb tabsize=2 %}
+
+~~~ruby
 
 group :development do
   gem "better_errors"
 end
 
-{% endhighlight %}
+~~~
 
