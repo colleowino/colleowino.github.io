@@ -16,5 +16,5 @@ and also added the pg gem itself but I decided to try running on postgres locall
 - start the engines and create a role for the user, link below.
 
 #### further reading 
-- [get genymotion](https://www.genymotion.com)
 - [create user](http://www.postgresql.org/docs/8.1/static/app-createuser.html)
+- [postgres basics](http://blog.trackets.com/2013/08/19/postgresql-basics-by-example.html)
