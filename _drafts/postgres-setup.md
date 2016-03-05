@@ -17,4 +17,5 @@ and also added the pg gem itself but I decided to try running on postgres locall
 
 #### further reading 
 - [create user](http://www.postgresql.org/docs/8.1/static/app-createuser.html)
+- [first steps after installation](https://wiki.postgresql.org/wiki/First_steps)
 - [postgres basics](http://blog.trackets.com/2013/08/19/postgresql-basics-by-example.html)
