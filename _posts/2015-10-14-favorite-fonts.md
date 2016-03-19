@@ -49,7 +49,7 @@ I fell in love with this font when they shipped this with android.
 
 ### Serifs:
 
-#### 1. [playfair display](http://www.fontsquirrel.com/fonts/montserrat){:target='_blank'}
+#### 1. [playfair display](http://www.fontsquirrel.com/fonts/playfair-display){:target='_blank'}
 In case you wanted that clarendon feel to your design
 ![playfair](/img/playfair.png)
 
