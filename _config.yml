@@ -21,7 +21,7 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
 
 #stop crashing
 version: 2.1.0
