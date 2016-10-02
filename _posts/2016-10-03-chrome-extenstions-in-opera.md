@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "installing chrome extensions in opera"
-date:       2015-11-17 07:39:00 am
+date:       2016-10-03 01:20:00 am
 tags: browser-addons opera chrome 
 categories: drafts
 author:     "colleowino"
