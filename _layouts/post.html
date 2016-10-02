@@ -4,9 +4,9 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  
+
 	<p class="post-tag">
-			<span>{% for cat in page.categories %}<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}/#{{ cat }}"><span class="octicon octicon-list-unordered"></span>&nbsp;{{ cat }}</a>{% endfor %}</span>
+			<span>{% for cat in page.categories %}<a href="{{ '/category'}}/#{{ cat }}"><span class="octicon octicon-list-unordered"></span>&nbsp;{{ cat }}</a>{% endfor %}</span>
 			<span>{% for tag in page.tags %}
 					<a class="word-keep" href="{{ '/tags' | prepend: site.baseurl }}/#{{ tag }}"><span class="octicon octicon-tag"></span>&nbsp;{{ tag }}</a> {% endfor %} </span>
 	</p>
