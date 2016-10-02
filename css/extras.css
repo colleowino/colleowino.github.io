@@ -46,6 +46,18 @@ h3{
   }
 }
 
+@media (min-width: 30em) {
+  .sidebar {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 38em) {
+  .container {
+    max-width: 38rem;
+  }
+}
+
 .related{
 	padding-top:0.2rem;
 }
