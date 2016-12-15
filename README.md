@@ -3,6 +3,8 @@ Its built using Jekyll and hosted on git pages
 
 [View Live Demo &rarr;](http://colleowino.github.io)
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
+
 ### Getting started
 
 All you need to do is to install the jekyll, jekyll-paginate and jekyll-seo-tag gems, Then cd into the directory and run `jekyll serve` and you are good to go.
