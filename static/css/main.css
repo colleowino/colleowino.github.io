@@ -153,6 +153,7 @@ img{
 }
 .img-circle{
   width: 230px;
+  margin: 0 auto;
 }
 .blog-post{
   padding-top: 15px;
