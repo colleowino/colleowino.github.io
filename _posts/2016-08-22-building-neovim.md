@@ -60,5 +60,3 @@ If you run the build from the build folder it will complain about syntax issues.
 <br/>
 3.	[a nice article on the same](http://veelenga.com/editors/how-to-start-using-neovim-instead-of-vim/)
 
------
-
