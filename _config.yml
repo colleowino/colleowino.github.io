@@ -1,5 +1,4 @@
 ## Site settings title: Kole
-email: colleowino@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am a code junky, data enthusiast and design buff. 
   Trying to create a better world the only way I know how, coding!
@@ -11,11 +10,16 @@ facebook_username:  colleowino
 header-img: img/home-new.jpg
 title: "colleowino"
 tagline: "ship it, now!"
+avatar: profile.jpg
+email: colleowino@gmail.com
+linkedin: colleowino
+stackoverflow: users/2998272/colleowino 
+resume: https://docs.google.com/document/d/1SEBx_ONTJIgrzVNOGIAET8Udkb0njEiQiP0irxn-Rf8/edit?usp=sharing
 
 # Dependencies
 markdown: kramdown
 highlighter: rouge
-
+  
 #permalinks
 permalink: /:title
 paginate: 5
