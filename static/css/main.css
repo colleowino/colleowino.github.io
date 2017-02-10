@@ -103,6 +103,10 @@ body {
 .container a:hover {
   color: #267723;
 }
+.blogpost h3{
+  text-align: left;
+  margin-top: 30px;
+}
 img{
   display: block;
 }
