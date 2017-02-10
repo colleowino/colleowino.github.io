@@ -36,7 +36,7 @@ The img itself has to be in a div `img_wrap` and on mouse over the before select
 
 Alternatively you can create a new div in img_wrap with the same properties along with `display:hidden` and reveal it on hover state
 
-links:
-[I got it from here](http://illusion.scene360.com/art/98099/katie-shocrylas/),
-[w3Schools before selector examples](http://www.w3schools.com/cssref/sel_before.asp)
+### References
+1. [original source of css technique](http://illusion.scene360.com/art/98099/katie-shocrylas/)
+2. [W3 School: before selector examples](http://www.w3schools.com/cssref/sel_before.asp)
 
