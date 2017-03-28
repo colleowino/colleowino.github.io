@@ -1,6 +1,6 @@
 ## Site settings title: Kole
 description: > # this means to ignore newlines until "baseurl:"
-  Often describe myself as a code junky, data enthusiast and design buff. 
+  Often  describe myself as a code junky, data enthusiast and design buff. 
   Trying to create a better world the only way I know how, coding!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://colleowino.github.io"
@@ -29,6 +29,9 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-seo-tag]
+
+pygments_options:
+  tabsize: 2
 
 #stop crashing
 version: 2.1.0
