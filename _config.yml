@@ -16,6 +16,7 @@ linkedin: colleowino
 disqus: colleowino
 stackoverflow: users/2998272/colleowino 
 resume: https://docs.google.com/document/d/1SEBx_ONTJIgrzVNOGIAET8Udkb0njEiQiP0irxn-Rf8/edit?usp=sharing
+image: /img/post-sample-image.jpg
 
 # Dependencies
 markdown: kramdown
@@ -26,7 +27,7 @@ permalink: /:title
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-paginate, jekyll-seo-tag, jekyll-auto-image]
 
 pygments_options:
   tabsize: 2
