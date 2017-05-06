@@ -1,7 +1,7 @@
 ## Site settings title: Kole
 description: > # this means to ignore newlines until "baseurl:"
-  Often  describe myself as a code junky, data enthusiast and design buff. 
-  Trying to create a better world the only way I know how, coding!
+  Web & Android developer, thrilled about connecting the dots,
+  breaking new ground and making a difference.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://colleowino.github.io"
 twitter_username: colleowino
