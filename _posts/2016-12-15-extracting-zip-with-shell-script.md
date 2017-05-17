@@ -5,6 +5,7 @@ date:       2016-12-15 06:32:00 am
 tags: shell bash utility javascript browser-addon newbie
 categories: ubuntu
 author:     "colleowino"
+header-img: /img/extract-zip.png
 excerpt: I got carried away and downloaded lots of pdf files in zip files, so I needed a way to extract each file into one directory. I had to brush up on shell scripting to ...
 
 ---

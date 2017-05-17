@@ -5,6 +5,7 @@ date:       2016-09-04 10:16:00 pm
 tags: C builds source linux ubuntu
 categories: ubuntu
 author:     "colleowino"
+header-img: /img/eog.png
 excerpt: After switching over to ubuntu, the one app that I missed the most turned out to be google's picasa. I thought it would be a good idea to implement some of the features I missed from picasa into either gThumb or Eye-of-gnome. Little did I know the pain that was waiting for me.
 
 ---

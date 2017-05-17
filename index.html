@@ -9,7 +9,11 @@ title: Home
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title"> {{ post.title }}
         </h2>
-        <img src="{{post.image}}" alt="{{post.title}}">
+        {% if post.header-img %}
+          <img src="{{post.header-img}}" alt="{{post.title}}">
+        {% else %}
+          <img src="{{site.image}}" alt="{{post.title}}">
+        {% endif %}
 
 						<p class="post-tag">
 			<span>{% for cat in post.categories %}<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}/#{{ cat }}"><span class="octicon octicon-list-unordered"></span>&nbsp;{{ cat }}</a>{% endfor %}</span>

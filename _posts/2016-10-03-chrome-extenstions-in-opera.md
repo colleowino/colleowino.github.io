@@ -5,6 +5,7 @@ date:       2016-10-03 01:20:00 am
 tags: browser-addons opera chrome 
 categories: tools
 author:     "colleowino"
+header-img: /img/chrome-opera.png
 excerpt: "I am a big fan of opera and being able to install chrome extensions only makes the deal sweeter"
 
 ---

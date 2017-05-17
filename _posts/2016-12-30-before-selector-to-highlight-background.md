@@ -6,6 +6,7 @@ tags: html css tricks
 categories: web
 author:     "colleowino"
 excerpt: Using the css before selector to highlight a selected div 
+header-img: /img/before-hover.png
 
 ---
 ![before hover selector](/img/before-hover.png "on mouse hover the before selector adds orange highlight")
