@@ -56,6 +56,7 @@ The UVa experience leaves a lot to be desired. I hope to solve more problems wit
 links:
 * [UVa for Beginners](https://tausiq.wordpress.com/uva-for-beginners/)
 * [collection of easy problems UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607)
+* [Some Fun Facts About the UVa Judge](http://www.chyernobog.org/blog/2013/02/14/some-fun-facts-about-the-uva-judge/)
 
 -----
 
