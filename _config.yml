@@ -28,8 +28,11 @@ permalink: /:title
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-#gems: [jekyll-paginate, jekyll-seo-tag, jekyll-auto-image, jekyll-youtube]
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-auto-image, jekyll-youtube]
+#gems: [jekyll-paginate, jekyll-seo-tag, jekyll-auto-image]
+plugins: 
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-auto-image
 
 pygments_options:
   tabsize: 2

@@ -90,6 +90,6 @@ function add(x, y) {
 A much better write up is available at [geeks for geeks](https://www.geeksforgeeks.org/add-two-numbers-without-using-arithmetic-operators/).
 If you prefer videos you can check out the video below from **sBack to SWE**
 
-{% youtube "https://www.youtube.com/watch?v=qq64FrA2UXQ" %}
+{% include youtube.html id="qq64FrA2UXQ" %}
 
 ---
