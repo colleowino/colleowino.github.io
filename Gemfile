@@ -5,3 +5,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-auto-image"
 end
+
+gem "webrick", "~> 1.7"
