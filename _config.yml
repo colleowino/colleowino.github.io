@@ -2,7 +2,7 @@
 description: > # this means to ignore newlines until "baseurl:"
   Full stack web developer who has done a bit of android. 
   I speak fluent Javascript and occasionally I python when I need space.
-  User Experience is near and dear to my heart.
+  User Experience is near and dear to my heart. Trying my hand at R programming.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://colleowino.github.io"
 twitter_username: colleowino
